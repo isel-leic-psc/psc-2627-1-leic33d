@@ -4,7 +4,7 @@
 
 **Professor:** Ezequiel Conde, gabinete F.0.24
 
-**Horário:**
+**Horário letivo:**
  - 2ª feira, 16:00-18:00, [T]
  - 3ª feira, 16:00-18:00, [T|P]
 
