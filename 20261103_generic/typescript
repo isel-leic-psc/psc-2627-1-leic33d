@@ -1,0 +1,305 @@
+Script started on 2026-11-03 16:53:36+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 16
+-rw-r--r--+ 1 ezequiel ezequiel  916 Nov  3 16:46 person_sort.c
+-rw-rw-r--+ 1 ezequiel ezequiel 2400 Nov  3 16:53 person_sort.o
+-rw-rw-r--+ 1 ezequiel ezequiel  583 Nov  3 16:53 sort_int.c
+-rw-rw-r--+ 1 ezequiel ezequiel 2192 Nov  3 16:53 sort_int.o
+-rw-rw-r--+ 1 ezequiel ezequiel    0 Nov  3 16:53 typescript
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort_int.[K[K[K[K[K.c
+[?2004l]133;C\]666;vte.shell.preexec!\[01m[Kcc1:[m[K [01;31m[Kfatal error: [m[Ksort.c: No such file or directory
+compilation terminated.
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort.c
+[?2004l]133;C\]666;vte.shell.preexec!\[01m[Ksort.c:[m[K In function ‘[01m[Ksort[m[K’:
+[01m[Ksort.c:12:33:[m[K [01;31m[Kerror: [m[Kimplicit declaration of function ‘[01m[Kperson_swap[m[K’ [[01;31m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-15.2.0/gcc/Warning-Options.html#index-Wimplicit-function-declaration-Wimplicit-function-declaration]8;;[m[K]
+   12 |                                 [01;31m[Kperson_swap[m[K(&array[j], &array[j + 1]);
+      |                                 [01;31m[K^~~~~~~~~~~[m[K
+[01m[Ksort.c:12:51:[m[K [01;35m[Kwarning: [m[Kdereferencing ‘[01m[Kvoid *[m[K’ pointer
+   12 |                                 person_swap(&array[01;35m[K[[m[Kj], &array[j + 1]);
+      |                                                   [01;35m[K^[m[K
+[01m[Ksort.c:12:62:[m[K [01;35m[Kwarning: [m[Kdereferencing ‘[01m[Kvoid *[m[K’ pointer
+   12 |                                 person_swap(&array[j], &array[01;35m[K[[m[Kj + 1]);
+      |                                                              [01;35m[K^[m[K
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort.c[C[C[C[C[C[C[C[C[C[Cls -l[K[1Pexit[K[K[K[Kgcc -c sort.c
+[?2004l]133;C\]666;vte.shell.preexec!\[01m[Ksort.c:[m[K In function ‘[01m[Ksort[m[K’:
+[01m[Ksort.c:12:33:[m[K [01;31m[Kerror: [m[Kimplicit declaration of function ‘[01m[Kperson_swap[m[K’ [[01;31m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-15.2.0/gcc/Warning-Options.html#index-Wimplicit-function-declaration-Wimplicit-function-declaration]8;;[m[K]
+   12 |                                 [01;31m[Kperson_swap[m[K(&array[j], &array[j + 1]);
+      |                                 [01;31m[K^~~~~~~~~~~[m[K
+[01m[Ksort.c:12:51:[m[K [01;35m[Kwarning: [m[Kdereferencing ‘[01m[Kvoid *[m[K’ pointer
+   12 |                                 person_swap(&array[01;35m[K[[m[Kj], &array[j + 1]);
+      |                                                   [01;35m[K^[m[K
+[01m[Ksort.c:12:62:[m[K [01;35m[Kwarning: [m[Kdereferencing ‘[01m[Kvoid *[m[K’ pointer
+   12 |                                 person_swap(&array[j], &array[01;35m[K[[m[Kj + 1]);
+      |                                                              [01;35m[K^[m[K
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc -c sort.c
+[?2004l]133;C\]666;vte.shell.preexec!\[01m[Ksort.c:[m[K In function ‘[01m[Kswap[m[K’:
+[01m[Ksort.c:8:32:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K:[m[K’ token
+    8 |         memcpy(a, b, elem_size)[01;31m[K:[m[K
+      |                                [01;31m[K^[m[K
+      |                                [32m[K;[m[K
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc -c sort.c
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc -c sort.c[8@sort_int.[C[C[C[C[C[C[C[C
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort.c -i[Ko sort_int.[K
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc person_sort.c sort.c -o person_sort.[K
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 88
+-rwxrwxr-x+ 1 ezequiel ezequiel 16328 Nov  3 16:58 [0m[01;32ma.out[0m
+-rwxrwxr-x+ 1 ezequiel ezequiel 16424 Nov  3 16:58 [01;32mperson_sort[0m
+-rw-r--r--+ 1 ezequiel ezequiel   916 Nov  3 16:46 person_sort.c
+-rw-rw-r--+ 1 ezequiel ezequiel  2400 Nov  3 16:53 person_sort.o
+-rw-rw-r--+ 1 ezequiel ezequiel   557 Nov  3 16:58 sort.c
+-rw-rw-r--+ 1 ezequiel ezequiel  2064 Nov  3 16:58 sort.o
+-rwxrwxr-x+ 1 ezequiel ezequiel 16328 Nov  3 16:58 [01;32msort_int[0m
+-rw-rw-r--+ 1 ezequiel ezequiel   583 Nov  3 16:53 sort_int.c
+-rw-rw-r--+ 1 ezequiel ezequiel  2192 Nov  3 16:53 sort_int.o
+-rw-rw-r--+ 1 ezequiel ezequiel 12288 Nov  3 16:58 typescript
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ./person_sort 
+[?2004l]133;C\]666;vte.shell.preexec!\number = 50456, name = Ana, age = 20, score = 0
+number = 50234, name = Rui, age = 79, score = 0
+number = 55464, name = Luis, age = 87, score = 0
+
+number = 50234, name = Rui, age = 79, score = 0
+number = 50456, name = Ana, age = 20, score = 0
+number = 55464, name = Luis, age = 87, score = 0
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ./person_sort [K[K[K[K[K[K[K[K[K[K[K[Ksort_int 
+[?2004l]133;C\]666;vte.shell.preexec!\[0] = 1
+[1] = 4
+[2] = 3
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+
+[0] = 1
+[1] = 4
+[2] = 3
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ./sort_int [3@person_sor[C[C[C[C[C[C[C[C[C[C[C[C[9Pls -lgcc person_sort.c sort.c -o person_sort[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Psort_int.c sort.c -o sort_in[C
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort.c -o sort_int[C[C[C[C[C[C[C[C[C[C[22P./sort_int 
+[?2004l]133;C\]666;vte.shell.preexec!\[0] = 1
+[1] = 4
+[2] = 3
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+
+[0] = 1
+[1] = 2
+[2] = 3
+[3] = 4
+[4] = 4
+[5] = 5
+[6] = 20
+[7] = 20
+[8] = 65
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 104
+drwxrwxr-x+  2 ezequiel ezequiel  4096 Nov  3 17:22 [0m[01;34m.[0m
+drwxrwxr-x+ 13 ezequiel ezequiel  4096 Nov  3 16:09 [01;34m..[0m
+-rwxrwxr-x+  1 ezequiel ezequiel 16328 Nov  3 16:58 [01;32ma.out[0m
+-rwxrwxr-x+  1 ezequiel ezequiel 16424 Nov  3 16:58 [01;32mperson_sort[0m
+-rw-r--r--+  1 ezequiel ezequiel   916 Nov  3 16:46 person_sort.c
+-rw-rw-r--+  1 ezequiel ezequiel  2400 Nov  3 16:53 person_sort.o
+-rw-rw-r--+  1 ezequiel ezequiel   564 Nov  3 17:01 sort.c
+-rw-rw-r--+  1 ezequiel ezequiel  2064 Nov  3 16:58 sort.o
+-rw-rw-r--+  1 ezequiel ezequiel  1138 Nov  3 17:22 sort_asm.s
+-rwxrwxr-x+  1 ezequiel ezequiel 16328 Nov  3 17:00 [01;32msort_int[0m
+-rw-rw-r--+  1 ezequiel ezequiel   602 Nov  3 17:00 sort_int.c
+-rw-rw-r--+  1 ezequiel ezequiel  2192 Nov  3 16:53 sort_int.o
+-rw-rw-r--+  1 ezequiel ezequiel 16384 Nov  3 16:58 typescript
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ rm a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ rm person_sort
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ rm person_sort[K[K[K[K[K[K[K[K[K[K[Ksort
+[?2004l]133;C\]666;vte.shell.preexec!\rm: cannot remove 'sort': No such file or directory
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ rm sort
+sort_asm.s  sort.c      sort_int    sort_int.c  sort_int.o  sort.o
+]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ rm sort_int
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ rm sort_int[K[7@person_[C[C[C[C[5Pa.out [3Pls -al./sort_int gcc sort_int.c sort.c -o sort_int
+[?2004l]133;C\]666;vte.shell.preexec!\/usr/local/bin/ld: /tmp/ccqaZpx1.o: in function `main':
+sort_int.c:(.text+0xd8): undefined reference to `sort'
+collect2: error: ld returned 1 exit status
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort.c -o sort_int[1@s[1@o[1@r[1@t[1@_[1@a[1@s[1@m[1@.[1@s[1@ 
+[?2004l]133;C\]666;vte.shell.preexec!\sort_asm.s: Assembler messages:
+sort_asm.s:44: Warning: indirect call without `*'
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort.c sort_asm.s -o sort_int
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort.c sort_asm.s -o sort_int[11P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Prm[C[C[C[C[C[C[C[C[C[K[7@person_[C[C[C[C[5Pa.out [3Pls -al./sort_int 
+[?2004l]133;C\]666;vte.shell.preexec!\[0] = 1
+[1] = 4
+[2] = 3
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+
+[0] = 0
+[1] = 67109632
+[2] = 256
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ./sort_int gcc sort_int.c sort.c sort_asm.s -o sort_int -g
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ insight ./sort_int
+[?2004l]133;C\]666;vte.shell.preexec!\[0] = 1
+[1] = 4
+[2] = 3
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ insight ./sort_int[C[C[C[C[C[C[C[C[C[Cgcc sort_int.c sort.c sort_asm.s -o sort_int -g
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort.c sort_asm.s -o sort_int -g[C[C[C[C[C[C[C[C[C[C[29Pinsight ./sort_int
+[?2004l]133;C\]666;vte.shell.preexec!\[0] = 1
+[1] = 4
+[2] = 3
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ insight ./sort_int[C[C[C[C[C[C[C[C[C[Cgcc sort_int.c sort.c sort_asm.s -o sort_int -g
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort.c sort_asm.s -o sort_int -g[C[C[C[C[C[C[C[C[C[C[29Pinsight ./sort_int[C[C[C[C[C[C[C[C[C[Cgcc sort_int.c sort.c sort_asm.s -o sort_int -g[C[C[C[C[C[C[C[C[C[C[29Pinsight ./sort_int[C[C[C[C[C[C[C[C[C[Cgcc sort_int.c sort.c sort_asm.s -o sort_int -g[C[C[C[C[C[C[C[C[C[C./sort_int [K
+[?2004l]133;C\]666;vte.shell.preexec!\[0] = 1
+[1] = 4
+[2] = 3
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+
+[0] = 4
+[1] = 20
+[2] = 3
+[3] = 4
+[4] = 1
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ./sort_int gcc sort_int.c sort.c sort_asm.s -o sort_int -g
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort.c sort_asm.s -o sort_int -g[C[C[C[C[C[C[C[C[C[C./sort_int [K
+[?2004l]133;C\]666;vte.shell.preexec!\[0] = 1
+[1] = 4
+[2] = 3
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+
+[0] = 5
+[1] = 2
+[2] = 65
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 3
+[7] = 4
+[8] = 1
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ./sort_int gcc sort_int.c sort.c sort_asm.s -o sort_int -g[C[C[C[C[C[C[C[C[C[C./sort_int [K
+[?2004l]133;C\]666;vte.shell.preexec!\[0] = 1
+[1] = 4
+[2] = 3
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+
+[0] = 5
+[1] = 2
+[2] = 65
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 3
+[7] = 4
+[8] = 1
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ./sort_int gcc sort_int.c sort.c sort_asm.s -o sort_int -g[C[C[C[C[C[C[C[C[C[C./sort_int [Kgcc sort_int.c sort.c sort_asm.s -o sort_int -g[C[C[C[C[C[C[C[C[C[C[29Pinsight ./sort_int
+[?2004l]133;C\]666;vte.shell.preexec!\[0] = 1
+[1] = 4
+[2] = 3
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ insight ./sort_int[C[C[C[C[C[C[C[C[C[C[7P./sort_int gcc sort_int.c sort.c sort_asm.s -o sort_int -g
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ gcc sort_int.c sort.c sort_asm.s -o sort_int -g[C[C[C[C[C[C[C[C[C[C[29Pinsight ./sort_int[C[C[C[C[C[C[C[C[C[C[7P./sort_int 
+[?2004l]133;C\]666;vte.shell.preexec!\[0] = 1
+[1] = 4
+[2] = 3
+[3] = 20
+[4] = 4
+[5] = 20
+[6] = 65
+[7] = 2
+[8] = 5
+
+[0] = 1
+[1] = 2
+[2] = 3
+[3] = 4
+[4] = 4
+[5] = 5
+[6] = 20
+[7] = 20
+[8] = 65
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ./sort_int gcc sort_int.c sort.c sort_asm.s -o sort_int -g[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kperson_sort.c sort_asm.s sort.c -o person_sort.[K
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ ./a[Kperson_sort 
+[?2004l]133;C\]666;vte.shell.preexec!\number = 50456, name = Ana, age = 20, score = 0
+number = 50234, name = Rui, age = 79, score = 0
+number = 55464, name = Luis, age = 87, score = 0
+
+number = 50234, name = Rui, age = 79, score = 0
+number = 50456, name = Ana, age = 20, score = 0
+number = 55464, name = Luis, age = 87, score = 0
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/20261103_generic[01;32mezequiel[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script done on 2026-11-03 17:42:54+00:00 [COMMAND_EXIT_CODE="0"]
