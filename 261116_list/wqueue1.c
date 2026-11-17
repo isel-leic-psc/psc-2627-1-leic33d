@@ -5,12 +5,36 @@ void user_insert(char *name)
 
 char *user_answer()
 {
+	struct user *user = queue->head;
+	queue.head = queue.head->next;
+	char *name = user->name;
+	free(user);
+	return name;
 }
 
-void user_remove(name)
+void user_remove(char *name)
 {
+	struct user *prev = nullptr;
+	for (struct user *ptr; ptr != nullptr; prev = ptr, ptr = ptr->next)
+		if (strcmp(ptr->name, name) == 0)
+			break;
+	if (prev == nullptr)
+		queue.head = ptr->next;
+	else
+		prev->next = ptr->next;
+	free(ptr->name);
+	free(ptr);
 }
 
+void user_delete_queue()
+{
+	struct user *next;
+	for (struct user *ptr; ptr != nullptr; ptr = next) {
+		free(ptr->name);
+		next = ptr->next;
+		free(ptr);
+	}
+}
 
 static void help()
 {
