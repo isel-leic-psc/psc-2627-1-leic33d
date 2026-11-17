@@ -37,9 +37,6 @@ char *user_answer() {
 	if (queue.next == &queue)
 		return NULL;
 	struct user *user = queue.next;
-	
-//	queue.next->next->prev = &queue;
-//	queue.next = queue.next->next;
 
 	struct user *p = queue.next;
 	p->prev->next = p->next;
