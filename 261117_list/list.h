@@ -1,11 +1,17 @@
 struct node;
 
+struct node *list_create();
+
 void list_remove(struct node *p);
 
-void list_insert_next(struct node *node, void *data);
+struct node *list_insert_next(struct node *node, void *data);
 
-void list_get_data(struct node *node);
+void list_foreach(struct node *list, void (*doit)(void *, void *), void *context);
 
-void list_get_next(struct node *node);
+struct node *list_search(struct node *list, bool (*cmp)(const void *, const void *), const void *context);
 
-void list_foreach(struct node *list, void (*doit)(void *));
+bool list_empty(struct node *list);
+
+struct node *list_get_next(struct node *node);
+
+void *list_get_data(struct node *node);

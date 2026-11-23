@@ -27,12 +27,13 @@ void user_insert(char *name) {
 	}
 	strcpy(user->name, name);
 	user->time = time(NULL);
-	
-	list_insert(queue, user);
+
+	list_insert_next(queue, user);
 }
 
-char *user_answer() {
-	if (list_empty(&queue))
+char *user_answer()
+{
+	if (list_empty(queue))
 		return nullptr;
 
 	struct user *user = list_get_data(list_get_next(queue));
@@ -44,43 +45,45 @@ char *user_answer() {
 	return name;
 }
 
-void user_remove(char *name) {
-	for (struct user *p = queue.next; p != &queue; p = p->next)
-		if (strcmp(p->name, name) == 0) {
-		
-			list_remove(p);
-			
-			free(p->name);
-			free(p);
-			return;
-		}
+bool name_cmp(const void *a, const void *b)
+{
+	const struct user *user = a;
+	const char *name = b;
+	return strcmp(user->name, name) == 0;
 }
 
-void user_delete_queue() {
-	struct user *next;
-	for (struct user *p = queue.next; p != &queue; p = next) {
-	
-		list_remove(p);
-		
-		next = p->next;
-		
-		
-		free(p->name);
-		free(p);
+void user_remove(char *name) {
+	struct node *node = list_search(queue, name_cmp, name);
+	if (node != nullptr) {
+		struct user *user = list_get_data(node);
+		free(user->name);
+		free(user);
+		list_remove(node);
 	}
 }
 
-void print(void *a)
+void delete(void *a, void *)
 {
 	struct user *user = a;
-	printf("[%d] %s\n", i, user->name);
+	free(user->name);
+	free(user);
+}
+
+void user_delete_queue()
+{
+	list_foreach(queue, delete, nullptr);
+}
+
+void print(void *a, void *b)
+{
+	struct user *user = a;
+	int *pi = (int *) b;
+	printf("[%d] %s\n", (*pi)++, user->name);
 }
 
 void user_print() {
-	list_foreach(queue, print)
-	
-
-
+	int i = 0;
+	list_foreach(queue, print, &i);
 }
 
 void help()
