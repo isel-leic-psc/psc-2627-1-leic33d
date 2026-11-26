@@ -1,0 +1,16 @@
+all: liblist.a liblist.so
+
+liblist.a: list.o
+	ar cr liblist.a list.o
+
+liblist.so: list_pic.o
+	gcc -shared list_pic.o -o liblist.so
+
+list.o: list.c
+	gcc list.c -c
+
+list_pic.o: list.c
+	gcc list.c -c -fPIC -o list_pic.o
+
+clean:
+	rm -rf *.o liblist.a liblist.so

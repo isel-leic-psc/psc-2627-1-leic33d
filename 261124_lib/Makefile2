@@ -1,0 +1,9 @@
+
+wqueue3: wqueue3.o
+	gcc wqueue3.o -l list -L . -o wqueue3
+
+wqueue3.o: wqueue3.c
+	gcc wqueue3.c -c
+
+clean:
+	rm -rf *.o wqueue3

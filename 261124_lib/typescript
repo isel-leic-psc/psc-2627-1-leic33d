@@ -1,0 +1,2223 @@
+Script started on 2026-11-24 16:15:06+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm liblist.a 
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 32
+drwxrwxr-x+  2 ezequiel ezequiel 4096 Nov 24 16:15 [0m[01;34m.[0m
+drwxrwxr-x+ 19 ezequiel ezequiel 4096 Nov 24 16:04 [01;34m..[0m
+-rw-rw-r--+  1 ezequiel ezequiel  159 Nov 23 17:51 Makefile
+-rw-rw-r--+  1 ezequiel ezequiel  104 Nov 24 16:14 Makelib
+-rw-r--r--+  1 ezequiel ezequiel 1256 Nov 23 10:53 list.c
+-rw-r--r--+  1 ezequiel ezequiel  458 Nov 23 10:38 list.h
+-rw-rw-r--+  1 ezequiel ezequiel 2584 Nov 24 16:12 list.o
+-rw-rw-r--+  1 ezequiel ezequiel    0 Nov 24 16:15 typescript
+-rw-r--r--+  1 ezequiel ezequiel 2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm list.o
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 28
+drwxrwxr-x+  2 ezequiel ezequiel 4096 Nov 24 16:15 [0m[01;34m.[0m
+drwxrwxr-x+ 19 ezequiel ezequiel 4096 Nov 24 16:04 [01;34m..[0m
+-rw-rw-r--+  1 ezequiel ezequiel  159 Nov 23 17:51 Makefile
+-rw-rw-r--+  1 ezequiel ezequiel  104 Nov 24 16:14 Makelib
+-rw-r--r--+  1 ezequiel ezequiel 1256 Nov 23 10:53 list.c
+-rw-r--r--+  1 ezequiel ezequiel  458 Nov 23 10:38 list.h
+-rw-rw-r--+  1 ezequiel ezequiel    0 Nov 24 16:15 typescript
+-rw-r--r--+  1 ezequiel ezequiel 2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makelib 
+[?2004l]133;C\]666;vte.shell.preexec!\gcc list.c -c
+ar cr listlib.a list.o
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 32
+-rw-rw-r--+ 1 ezequiel ezequiel  159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel  104 Nov 24 16:14 Makelib
+-rw-r--r--+ 1 ezequiel ezequiel 1256 Nov 23 10:53 list.c
+-rw-r--r--+ 1 ezequiel ezequiel  458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel 2584 Nov 24 16:15 list.o
+-rw-rw-r--+ 1 ezequiel ezequiel 2854 Nov 24 16:15 listlib.a
+-rw-rw-r--+ 1 ezequiel ezequiel 4096 Nov 24 16:15 typescript
+-rw-r--r--+ 1 ezequiel ezequiel 2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ gcc wqueue3.c lib[K[K[K[K
+[?2004l]133;C\]666;vte.shell.preexec!\/usr/local/bin/ld: /tmp/cclySbBw.o: in function `user_insert':
+wqueue3.c:(.text+0xe1): undefined reference to `list_insert_next'
+/usr/local/bin/ld: /tmp/cclySbBw.o: in function `user_answer':
+wqueue3.c:(.text+0xff): undefined reference to `list_empty'
+/usr/local/bin/ld: wqueue3.c:(.text+0x119): undefined reference to `list_get_next'
+/usr/local/bin/ld: wqueue3.c:(.text+0x121): undefined reference to `list_get_data'
+/usr/local/bin/ld: wqueue3.c:(.text+0x134): undefined reference to `list_get_next'
+/usr/local/bin/ld: wqueue3.c:(.text+0x13c): undefined reference to `list_remove'
+/usr/local/bin/ld: /tmp/cclySbBw.o: in function `user_remove':
+wqueue3.c:(.text+0x1c7): undefined reference to `list_search'
+/usr/local/bin/ld: wqueue3.c:(.text+0x1de): undefined reference to `list_get_data'
+/usr/local/bin/ld: wqueue3.c:(.text+0x209): undefined reference to `list_remove'
+/usr/local/bin/ld: /tmp/cclySbBw.o: in function `user_delete_queue':
+wqueue3.c:(.text+0x26c): undefined reference to `list_foreach'
+/usr/local/bin/ld: /tmp/cclySbBw.o: in function `user_print':
+wqueue3.c:(.text+0x301): undefined reference to `list_foreach'
+/usr/local/bin/ld: /tmp/cclySbBw.o: in function `main':
+wqueue3.c:(.text+0x352): undefined reference to `list_create'
+collect2: error: ld returned 1 exit status
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ gcc wqueue3.c
+[?2004l]133;C\]666;vte.shell.preexec!\/usr/local/bin/ld: /tmp/ccKHoTtj.o: in function `user_insert':
+wqueue3.c:(.text+0xe1): undefined reference to `list_insert_next'
+/usr/local/bin/ld: /tmp/ccKHoTtj.o: in function `user_answer':
+wqueue3.c:(.text+0xff): undefined reference to `list_empty'
+/usr/local/bin/ld: wqueue3.c:(.text+0x119): undefined reference to `list_get_next'
+/usr/local/bin/ld: wqueue3.c:(.text+0x121): undefined reference to `list_get_data'
+/usr/local/bin/ld: wqueue3.c:(.text+0x134): undefined reference to `list_get_next'
+/usr/local/bin/ld: wqueue3.c:(.text+0x13c): undefined reference to `list_remove'
+/usr/local/bin/ld: /tmp/ccKHoTtj.o: in function `user_remove':
+wqueue3.c:(.text+0x1c7): undefined reference to `list_search'
+/usr/local/bin/ld: wqueue3.c:(.text+0x1de): undefined reference to `list_get_data'
+/usr/local/bin/ld: wqueue3.c:(.text+0x209): undefined reference to `list_remove'
+/usr/local/bin/ld: /tmp/ccKHoTtj.o: in function `user_delete_queue':
+wqueue3.c:(.text+0x26c): undefined reference to `list_foreach'
+/usr/local/bin/ld: /tmp/ccKHoTtj.o: in function `user_print':
+wqueue3.c:(.text+0x301): undefined reference to `list_foreach'
+/usr/local/bin/ld: /tmp/ccKHoTtj.o: in function `main':
+wqueue3.c:(.text+0x352): undefined reference to `list_create'
+collect2: error: ld returned 1 exit status
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ nm wqueue3.c 
+[?2004l]133;C\]666;vte.shell.preexec!\nm: wqueue3.c: file format not recognized
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ nm wqueue3.c [K[Ko
+[?2004l]133;C\]666;vte.shell.preexec!\nm: 'wqueue3.o': No such file
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ nm wqueue3.oc [C[C[C[C[C[C[C[C[C[Cgcc wqueue3.c --save-temps
+[?2004l]133;C\]666;vte.shell.preexec!\/usr/local/bin/ld: a-wqueue3.o: in function `user_insert':
+wqueue3.c:(.text+0xe1): undefined reference to `list_insert_next'
+/usr/local/bin/ld: a-wqueue3.o: in function `user_answer':
+wqueue3.c:(.text+0xff): undefined reference to `list_empty'
+/usr/local/bin/ld: wqueue3.c:(.text+0x119): undefined reference to `list_get_next'
+/usr/local/bin/ld: wqueue3.c:(.text+0x121): undefined reference to `list_get_data'
+/usr/local/bin/ld: wqueue3.c:(.text+0x134): undefined reference to `list_get_next'
+/usr/local/bin/ld: wqueue3.c:(.text+0x13c): undefined reference to `list_remove'
+/usr/local/bin/ld: a-wqueue3.o: in function `user_remove':
+wqueue3.c:(.text+0x1c7): undefined reference to `list_search'
+/usr/local/bin/ld: wqueue3.c:(.text+0x1de): undefined reference to `list_get_data'
+/usr/local/bin/ld: wqueue3.c:(.text+0x209): undefined reference to `list_remove'
+/usr/local/bin/ld: a-wqueue3.o: in function `user_delete_queue':
+wqueue3.c:(.text+0x26c): undefined reference to `list_foreach'
+/usr/local/bin/ld: a-wqueue3.o: in function `user_print':
+wqueue3.c:(.text+0x301): undefined reference to `list_foreach'
+/usr/local/bin/ld: a-wqueue3.o: in function `main':
+wqueue3.c:(.text+0x352): undefined reference to `list_create'
+collect2: error: ld returned 1 exit status
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ gcc wqueue3.c --save-temps[C[C[C[C[C[C[C[C[C[C[14Pnm wqueue3.o
+[?2004l]133;C\]666;vte.shell.preexec!\nm: 'wqueue3.o': No such file
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ nm wqueue3.o[C[C[C[C[C[C[C[C[C[Cgcc wqueue3.c --save-temps
+[?2004l]133;C\]666;vte.shell.preexec!\/usr/local/bin/ld: a-wqueue3.o: in function `user_insert':
+wqueue3.c:(.text+0xe1): undefined reference to `list_insert_next'
+/usr/local/bin/ld: a-wqueue3.o: in function `user_answer':
+wqueue3.c:(.text+0xff): undefined reference to `list_empty'
+/usr/local/bin/ld: wqueue3.c:(.text+0x119): undefined reference to `list_get_next'
+/usr/local/bin/ld: wqueue3.c:(.text+0x121): undefined reference to `list_get_data'
+/usr/local/bin/ld: wqueue3.c:(.text+0x134): undefined reference to `list_get_next'
+/usr/local/bin/ld: wqueue3.c:(.text+0x13c): undefined reference to `list_remove'
+/usr/local/bin/ld: a-wqueue3.o: in function `user_remove':
+wqueue3.c:(.text+0x1c7): undefined reference to `list_search'
+/usr/local/bin/ld: wqueue3.c:(.text+0x1de): undefined reference to `list_get_data'
+/usr/local/bin/ld: wqueue3.c:(.text+0x209): undefined reference to `list_remove'
+/usr/local/bin/ld: a-wqueue3.o: in function `user_delete_queue':
+wqueue3.c:(.text+0x26c): undefined reference to `list_foreach'
+/usr/local/bin/ld: a-wqueue3.o: in function `user_print':
+wqueue3.c:(.text+0x301): undefined reference to `list_foreach'
+/usr/local/bin/ld: a-wqueue3.o: in function `main':
+wqueue3.c:(.text+0x352): undefined reference to `list_create'
+collect2: error: ld returned 1 exit status
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 148
+drwxrwxr-x+  2 ezequiel ezequiel  4096 Nov 24 16:16 [0m[01;34m.[0m
+drwxrwxr-x+ 19 ezequiel ezequiel  4096 Nov 24 16:04 [01;34m..[0m
+-rw-rw-r--+  1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+  1 ezequiel ezequiel   104 Nov 24 16:14 Makelib
+-rw-rw-r--+  1 ezequiel ezequiel 76427 Nov 24 16:16 a-wqueue3.i
+-rw-rw-r--   1 ezequiel ezequiel  6240 Nov 24 16:16 a-wqueue3.o
+-rw-rw-r--+  1 ezequiel ezequiel  8701 Nov 24 16:16 a-wqueue3.s
+-rw-r--r--+  1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+  1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+  1 ezequiel ezequiel  2584 Nov 24 16:15 list.o
+-rw-rw-r--+  1 ezequiel ezequiel  2854 Nov 24 16:15 listlib.a
+-rw-rw-r--+  1 ezequiel ezequiel 16384 Nov 24 16:16 typescript
+-rw-r--r--+  1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -algcc wqueue3.c --save-temps[C[C[C[C[C[C[C[C[C[C[14Pnm wqueue3.o[K[K[K[K[K[K[K[K[Ka-wqueue3.o
+[?2004l]133;C\]666;vte.shell.preexec!\0000000000000210 T delete
+                 U exit
+                 U fgets
+                 U free
+                 U fwrite
+000000000000031c T help
+                 U list_create
+                 U list_empty
+                 U list_foreach
+                 U list_get_data
+                 U list_get_next
+                 U list_insert_next
+                 U list_remove
+                 U list_search
+0000000000000336 T main
+                 U malloc
+000000000000015d T name_cmp
+0000000000000273 T print
+                 U printf
+                 U puts
+0000000000000000 B queue
+                 U __stack_chk_fail
+                 U stderr
+                 U stdin
+                 U stdout
+                 U strcmp
+                 U strcpy
+                 U strlen
+                 U strtok
+                 U time
+                 U toupper
+00000000000000e8 T user_answer
+000000000000024a T user_delete_queue
+0000000000000000 T user_insert
+00000000000002c6 T user_print
+000000000000019e T user_remove
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ c[Kgcc wqueue3.c 
+[?2004l]133;C\]666;vte.shell.preexec!\/usr/local/bin/ld: /tmp/ccNXpMAH.o: in function `user_insert':
+wqueue3.c:(.text+0xe1): undefined reference to `list_insert_next'
+/usr/local/bin/ld: /tmp/ccNXpMAH.o: in function `user_answer':
+wqueue3.c:(.text+0xff): undefined reference to `list_empty'
+/usr/local/bin/ld: wqueue3.c:(.text+0x119): undefined reference to `list_get_next'
+/usr/local/bin/ld: wqueue3.c:(.text+0x121): undefined reference to `list_get_data'
+/usr/local/bin/ld: wqueue3.c:(.text+0x134): undefined reference to `list_get_next'
+/usr/local/bin/ld: wqueue3.c:(.text+0x13c): undefined reference to `list_remove'
+/usr/local/bin/ld: /tmp/ccNXpMAH.o: in function `user_remove':
+wqueue3.c:(.text+0x1c7): undefined reference to `list_search'
+/usr/local/bin/ld: wqueue3.c:(.text+0x1de): undefined reference to `list_get_data'
+/usr/local/bin/ld: wqueue3.c:(.text+0x209): undefined reference to `list_remove'
+/usr/local/bin/ld: /tmp/ccNXpMAH.o: in function `user_delete_queue':
+wqueue3.c:(.text+0x26c): undefined reference to `list_foreach'
+/usr/local/bin/ld: /tmp/ccNXpMAH.o: in function `user_print':
+wqueue3.c:(.text+0x301): undefined reference to `list_foreach'
+/usr/local/bin/ld: /tmp/ccNXpMAH.o: in function `main':
+wqueue3.c:(.text+0x352): undefined reference to `list_create'
+collect2: error: ld returned 1 exit status
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ gcc wqueue3.c liblist.a
+[?2004l]133;C\]666;vte.shell.preexec!\/usr/local/bin/ld: cannot find liblist.a: No such file or directory
+collect2: error: ld returned 1 exit status
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ gcc wqueue3.c liblist.a
+[?2004l]133;C\]666;vte.shell.preexec!\/usr/local/bin/ld: cannot find liblist.a: No such file or directory
+collect2: error: ld returned 1 exit status
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 152
+drwxrwxr-x+  2 ezequiel ezequiel  4096 Nov 24 16:18 [0m[01;34m.[0m
+drwxrwxr-x+ 19 ezequiel ezequiel  4096 Nov 24 16:04 [01;34m..[0m
+-rw-rw-r--+  1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+  1 ezequiel ezequiel   104 Nov 24 16:14 Makelib
+-rw-rw-r--+  1 ezequiel ezequiel 76427 Nov 24 16:16 a-wqueue3.i
+-rw-rw-r--   1 ezequiel ezequiel  6240 Nov 24 16:16 a-wqueue3.o
+-rw-rw-r--+  1 ezequiel ezequiel  8701 Nov 24 16:16 a-wqueue3.s
+-rw-r--r--+  1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+  1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+  1 ezequiel ezequiel  2584 Nov 24 16:15 list.o
+-rw-rw-r--+  1 ezequiel ezequiel  2854 Nov 24 16:15 listlib.a
+-rw-rw-r--+  1 ezequiel ezequiel 20480 Nov 24 16:17 typescript
+-rw-r--r--+  1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makelib 
+[?2004l]133;C\]666;vte.shell.preexec!\ar cr liblist.a list.o
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makelib [C[C[C[C[C[C[C[C[C[C[10Pls -al[K[K[K[K[K[Kgcc wqueue3.c liblist.a 
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ./a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\> asdassd
+Fila vazia
+> asd
+Fila vazia
+> ads
+Fila vazia
+> n aa na
+> n luis
+> n rui
+> l
+[0] rui
+[1] luis
+[2] ana
+> a
+Atender rui
+> a
+Atender luis
+> 
+> a
+Atender ana
+> a
+Fila vazia
+> a
+Fila vazia
+> s
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ gcc -shared list.o -o liblist.so
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 200
+drwxrwxr-x+  2 ezequiel ezequiel  4096 Nov 24 16:20 [0m[01;34m.[0m
+drwxrwxr-x+ 19 ezequiel ezequiel  4096 Nov 24 16:04 [01;34m..[0m
+-rw-rw-r--+  1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+  1 ezequiel ezequiel   104 Nov 24 16:18 Makelib
+-rw-rw-r--+  1 ezequiel ezequiel 76427 Nov 24 16:16 a-wqueue3.i
+-rw-rw-r--   1 ezequiel ezequiel  6240 Nov 24 16:16 a-wqueue3.o
+-rw-rw-r--+  1 ezequiel ezequiel  8701 Nov 24 16:16 a-wqueue3.s
+-rwxrwxr-x+  1 ezequiel ezequiel 17296 Nov 24 16:19 [01;32ma.out[0m
+-rw-rw-r--+  1 ezequiel ezequiel  2854 Nov 24 16:19 liblist.a
+-rwxrwxr-x+  1 ezequiel ezequiel 15784 Nov 24 16:20 [01;32mliblist.so[0m
+-rw-r--r--+  1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+  1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+  1 ezequiel ezequiel  2584 Nov 24 16:15 list.o
+-rw-rw-r--+  1 ezequiel ezequiel  2854 Nov 24 16:15 listlib.a
+-rw-rw-r--+  1 ezequiel ezequiel 24576 Nov 24 16:18 typescript
+-rw-r--r--+  1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm a-*
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 108
+drwxrwxr-x+  2 ezequiel ezequiel  4096 Nov 24 16:20 [0m[01;34m.[0m
+drwxrwxr-x+ 19 ezequiel ezequiel  4096 Nov 24 16:04 [01;34m..[0m
+-rw-rw-r--+  1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+  1 ezequiel ezequiel   104 Nov 24 16:18 Makelib
+-rwxrwxr-x+  1 ezequiel ezequiel 17296 Nov 24 16:19 [01;32ma.out[0m
+-rw-rw-r--+  1 ezequiel ezequiel  2854 Nov 24 16:19 liblist.a
+-rwxrwxr-x+  1 ezequiel ezequiel 15784 Nov 24 16:20 [01;32mliblist.so[0m
+-rw-r--r--+  1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+  1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+  1 ezequiel ezequiel  2584 Nov 24 16:15 list.o
+-rw-rw-r--+  1 ezequiel ezequiel  2854 Nov 24 16:15 listlib.a
+-rw-rw-r--+  1 ezequiel ezequiel 28672 Nov 24 16:20 typescript
+-rw-r--r--+  1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm a.out [K[K[K[K[K[K[K[K[K
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makelib 
+[?2004l]133;C\]666;vte.shell.preexec!\make: 'liblist.a' is up to date.
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al[K[Kl
+[?2004l]133;C\]666;vte.shell.preexec!\total 80
+-rw-rw-r--+ 1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel   157 Nov 24 16:21 Makelib
+-rw-rw-r--+ 1 ezequiel ezequiel  2854 Nov 24 16:19 liblist.a
+-rwxrwxr-x+ 1 ezequiel ezequiel 15784 Nov 24 16:20 [0m[01;32mliblist.so[0m
+-rw-r--r--+ 1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+ 1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel  2584 Nov 24 16:15 list.o
+-rw-rw-r--+ 1 ezequiel ezequiel  2854 Nov 24 16:15 listlib.a
+-rw-rw-r--+ 1 ezequiel ezequiel 28672 Nov 24 16:20 typescript
+-rw-r--r--+ 1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm li[K[K*.so
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm *.so[2Pls -lmake -f Makelib 
+[?2004l]133;C\]666;vte.shell.preexec!\make: 'liblist.a' is up to date.
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makelib [C[C[C[C[C[C[C[C[C[C[9Prm *.so[2Pls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 68
+-rw-rw-r--+ 1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel   157 Nov 24 16:21 Makelib
+-rw-rw-r--+ 1 ezequiel ezequiel  2854 Nov 24 16:19 liblist.a
+-rw-r--r--+ 1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+ 1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel  2584 Nov 24 16:15 list.o
+-rw-rw-r--+ 1 ezequiel ezequiel  2854 Nov 24 16:15 listlib.a
+-rw-rw-r--+ 1 ezequiel ezequiel 32768 Nov 24 16:21 typescript
+-rw-r--r--+ 1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -lmake -f Makelib liblist.so
+[?2004l]133;C\]666;vte.shell.preexec!\gcc -shared -o liblist.a list.o
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 80
+-rw-rw-r--+ 1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel   157 Nov 24 16:21 Makelib
+-rwxrwxr-x  1 ezequiel ezequiel 15784 Nov 24 16:22 [0m[01;32mliblist.a[0m
+-rw-r--r--+ 1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+ 1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel  2584 Nov 24 16:15 list.o
+-rw-rw-r--+ 1 ezequiel ezequiel  2854 Nov 24 16:15 listlib.a
+-rw-rw-r--+ 1 ezequiel ezequiel 32768 Nov 24 16:21 typescript
+-rw-r--r--+ 1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rmm [K[K *.o[Ka
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 64
+-rw-rw-r--+ 1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel   157 Nov 24 16:21 Makelib
+-rw-r--r--+ 1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+ 1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel  2584 Nov 24 16:15 list.o
+-rw-rw-r--+ 1 ezequiel ezequiel 36864 Nov 24 16:22 typescript
+-rw-r--r--+ 1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -lrm *.a[1Pls -lmake -f Makelib liblist.so
+[?2004l]133;C\]666;vte.shell.preexec!\gcc -shared -o liblist.a list.o
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 80
+-rw-rw-r--+ 1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel   157 Nov 24 16:21 Makelib
+-rwxrwxr-x+ 1 ezequiel ezequiel 15784 Nov 24 16:23 [0m[01;32mliblist.a[0m
+-rw-r--r--+ 1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+ 1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel  2584 Nov 24 16:15 list.o
+-rw-rw-r--+ 1 ezequiel ezequiel 36864 Nov 24 16:22 typescript
+-rw-r--r--+ 1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -lmake -f Makelib liblist.so
+[?2004l]133;C\]666;vte.shell.preexec!\gcc -shared list.o -o liblist.a
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makelib liblist.so[C[C[C[C[C[C[C[C[C[Cls -l[Kmake -f Makelib liblist.so
+[?2004l]133;C\]666;vte.shell.preexec!\gcc -shared list.o -o liblist.so
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 100
+-rw-rw-r--+ 1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel   158 Nov 24 16:23 Makelib
+-rwxrwxr-x  1 ezequiel ezequiel 15784 Nov 24 16:23 [0m[01;32mliblist.a[0m
+-rwxrwxr-x+ 1 ezequiel ezequiel 15784 Nov 24 16:23 [01;32mliblist.so[0m
+-rw-r--r--+ 1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+ 1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel  2584 Nov 24 16:15 list.o
+-rw-rw-r--+ 1 ezequiel ezequiel 40960 Nov 24 16:23 typescript
+-rw-r--r--+ 1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -lmake -f Makelib liblist.so[C[C[C[C[C[C[C[C[C[Cls -l[Kmake -f Makelib liblist.so[C[C[C[C[C[C[C[C[C[Cls -l[Krm *.a[K[K[K[K[K[Kgcc wqueue3.c liblist.so 
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ./a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\./a.out: error while loading shared libraries: liblist.so: cannot open shared object file: No such file or directory
+]666;vte.shell.postexec=127\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ m./a.out gcc wqueue3.c liblist.so [C[C[C[C[C[C[C[C[C[Cls -l[Kmake -f Makelib liblist.so[K[K[K[K[K[K[K[K[K[K[K
+[?2004l]133;C\]666;vte.shell.preexec!\make: Nothing to be done for 'all'.
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makelib[C[C[C[C[C[C[C[C[C[C[7P./a.out make -f Makelib clean
+[?2004l]133;C\]666;vte.shell.preexec!\rm -rf *.o liblist.a liblist.so
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 88
+-rw-rw-r--+ 1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel   195 Nov 24 16:25 Makelib
+-rwxrwxr-x+ 1 ezequiel ezequiel 17264 Nov 24 16:24 [0m[01;32ma.out[0m
+-rw-r--r--+ 1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+ 1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel 45056 Nov 24 16:25 typescript
+-rw-r--r--+ 1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ mms[K[Kls -lmake -f Makelib clean[K[K[K[K[K[K
+[?2004l]133;C\]666;vte.shell.preexec!\gcc list.c -c
+ar cr liblist.a list.o
+gcc -shared list.o -o liblist.so
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 112
+-rw-rw-r--+ 1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel   195 Nov 24 16:25 Makelib
+-rwxrwxr-x+ 1 ezequiel ezequiel 17264 Nov 24 16:24 [0m[01;32ma.out[0m
+-rw-rw-r--+ 1 ezequiel ezequiel  2854 Nov 24 16:26 liblist.a
+-rwxrwxr-x+ 1 ezequiel ezequiel 15784 Nov 24 16:26 [01;32mliblist.so[0m
+-rw-r--r--+ 1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+ 1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel  2584 Nov 24 16:26 list.o
+-rw-rw-r--+ 1 ezequiel ezequiel 45056 Nov 24 16:25 typescript
+-rw-r--r--+ 1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ wqueue.c [K[K[K[K[K[K[K[K[Kgcc wqueue3.c liblist.so
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 112
+-rw-rw-r--+ 1 ezequiel ezequiel   159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel   195 Nov 24 16:25 Makelib
+-rwxrwxr-x  1 ezequiel ezequiel 17264 Nov 24 16:26 [0m[01;32ma.out[0m
+-rw-rw-r--+ 1 ezequiel ezequiel  2854 Nov 24 16:26 liblist.a
+-rwxrwxr-x+ 1 ezequiel ezequiel 15784 Nov 24 16:26 [01;32mliblist.so[0m
+-rw-r--r--+ 1 ezequiel ezequiel  1256 Nov 23 10:53 list.c
+-rw-r--r--+ 1 ezequiel ezequiel   458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel  2584 Nov 24 16:26 list.o
+-rw-rw-r--+ 1 ezequiel ezequiel 45056 Nov 24 16:25 typescript
+-rw-r--r--+ 1 ezequiel ezequiel  2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ objdump -d a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\
+a.out:     file format elf64-x86-64
+
+
+Disassembly of section .init:
+
+0000000000001000 <_init>:
+    1000:	f3 0f 1e fa          	endbr64
+    1004:	48 83 ec 08          	sub    $0x8,%rsp
+    1008:	48 8b 05 d9 2f 00 00 	mov    0x2fd9(%rip),%rax        # 3fe8 <__gmon_start__@Base>
+    100f:	48 85 c0             	test   %rax,%rax
+    1012:	74 02                	je     1016 <_init+0x16>
+    1014:	ff d0                	call   *%rax
+    1016:	48 83 c4 08          	add    $0x8,%rsp
+    101a:	c3                   	ret
+
+Disassembly of section .plt:
+
+0000000000001020 <.plt>:
+    1020:	ff 35 f2 2e 00 00    	push   0x2ef2(%rip)        # 3f18 <_GLOBAL_OFFSET_TABLE_+0x8>
+    1026:	ff 25 f4 2e 00 00    	jmp    *0x2ef4(%rip)        # 3f20 <_GLOBAL_OFFSET_TABLE_+0x10>
+    102c:	0f 1f 40 00          	nopl   0x0(%rax)
+    1030:	f3 0f 1e fa          	endbr64
+    1034:	68 00 00 00 00       	push   $0x0
+    1039:	e9 e2 ff ff ff       	jmp    1020 <_init+0x20>
+    103e:	66 90                	xchg   %ax,%ax
+    1040:	f3 0f 1e fa          	endbr64
+    1044:	68 01 00 00 00       	push   $0x1
+    1049:	e9 d2 ff ff ff       	jmp    1020 <_init+0x20>
+    104e:	66 90                	xchg   %ax,%ax
+    1050:	f3 0f 1e fa          	endbr64
+    1054:	68 02 00 00 00       	push   $0x2
+    1059:	e9 c2 ff ff ff       	jmp    1020 <_init+0x20>
+    105e:	66 90                	xchg   %ax,%ax
+    1060:	f3 0f 1e fa          	endbr64
+    1064:	68 03 00 00 00       	push   $0x3
+    1069:	e9 b2 ff ff ff       	jmp    1020 <_init+0x20>
+    106e:	66 90                	xchg   %ax,%ax
+    1070:	f3 0f 1e fa          	endbr64
+    1074:	68 04 00 00 00       	push   $0x4
+    1079:	e9 a2 ff ff ff       	jmp    1020 <_init+0x20>
+    107e:	66 90                	xchg   %ax,%ax
+    1080:	f3 0f 1e fa          	endbr64
+    1084:	68 05 00 00 00       	push   $0x5
+    1089:	e9 92 ff ff ff       	jmp    1020 <_init+0x20>
+    108e:	66 90                	xchg   %ax,%ax
+    1090:	f3 0f 1e fa          	endbr64
+    1094:	68 06 00 00 00       	push   $0x6
+    1099:	e9 82 ff ff ff       	jmp    1020 <_init+0x20>
+    109e:	66 90                	xchg   %ax,%ax
+    10a0:	f3 0f 1e fa          	endbr64
+    10a4:	68 07 00 00 00       	push   $0x7
+    10a9:	e9 72 ff ff ff       	jmp    1020 <_init+0x20>
+    10ae:	66 90                	xchg   %ax,%ax
+    10b0:	f3 0f 1e fa          	endbr64
+    10b4:	68 08 00 00 00       	push   $0x8
+    10b9:	e9 62 ff ff ff       	jmp    1020 <_init+0x20>
+    10be:	66 90                	xchg   %ax,%ax
+    10c0:	f3 0f 1e fa          	endbr64
+    10c4:	68 09 00 00 00       	push   $0x9
+    10c9:	e9 52 ff ff ff       	jmp    1020 <_init+0x20>
+    10ce:	66 90                	xchg   %ax,%ax
+    10d0:	f3 0f 1e fa          	endbr64
+    10d4:	68 0a 00 00 00       	push   $0xa
+    10d9:	e9 42 ff ff ff       	jmp    1020 <_init+0x20>
+    10de:	66 90                	xchg   %ax,%ax
+    10e0:	f3 0f 1e fa          	endbr64
+    10e4:	68 0b 00 00 00       	push   $0xb
+    10e9:	e9 32 ff ff ff       	jmp    1020 <_init+0x20>
+    10ee:	66 90                	xchg   %ax,%ax
+    10f0:	f3 0f 1e fa          	endbr64
+    10f4:	68 0c 00 00 00       	push   $0xc
+    10f9:	e9 22 ff ff ff       	jmp    1020 <_init+0x20>
+    10fe:	66 90                	xchg   %ax,%ax
+    1100:	f3 0f 1e fa          	endbr64
+    1104:	68 0d 00 00 00       	push   $0xd
+    1109:	e9 12 ff ff ff       	jmp    1020 <_init+0x20>
+    110e:	66 90                	xchg   %ax,%ax
+    1110:	f3 0f 1e fa          	endbr64
+    1114:	68 0e 00 00 00       	push   $0xe
+    1119:	e9 02 ff ff ff       	jmp    1020 <_init+0x20>
+    111e:	66 90                	xchg   %ax,%ax
+    1120:	f3 0f 1e fa          	endbr64
+    1124:	68 0f 00 00 00       	push   $0xf
+    1129:	e9 f2 fe ff ff       	jmp    1020 <_init+0x20>
+    112e:	66 90                	xchg   %ax,%ax
+    1130:	f3 0f 1e fa          	endbr64
+    1134:	68 10 00 00 00       	push   $0x10
+    1139:	e9 e2 fe ff ff       	jmp    1020 <_init+0x20>
+    113e:	66 90                	xchg   %ax,%ax
+    1140:	f3 0f 1e fa          	endbr64
+    1144:	68 11 00 00 00       	push   $0x11
+    1149:	e9 d2 fe ff ff       	jmp    1020 <_init+0x20>
+    114e:	66 90                	xchg   %ax,%ax
+    1150:	f3 0f 1e fa          	endbr64
+    1154:	68 12 00 00 00       	push   $0x12
+    1159:	e9 c2 fe ff ff       	jmp    1020 <_init+0x20>
+    115e:	66 90                	xchg   %ax,%ax
+    1160:	f3 0f 1e fa          	endbr64
+    1164:	68 13 00 00 00       	push   $0x13
+    1169:	e9 b2 fe ff ff       	jmp    1020 <_init+0x20>
+    116e:	66 90                	xchg   %ax,%ax
+    1170:	f3 0f 1e fa          	endbr64
+    1174:	68 14 00 00 00       	push   $0x14
+    1179:	e9 a2 fe ff ff       	jmp    1020 <_init+0x20>
+    117e:	66 90                	xchg   %ax,%ax
+    1180:	f3 0f 1e fa          	endbr64
+    1184:	68 15 00 00 00       	push   $0x15
+    1189:	e9 92 fe ff ff       	jmp    1020 <_init+0x20>
+    118e:	66 90                	xchg   %ax,%ax
+
+Disassembly of section .plt.got:
+
+0000000000001190 <__cxa_finalize@plt>:
+    1190:	f3 0f 1e fa          	endbr64
+    1194:	ff 25 5e 2e 00 00    	jmp    *0x2e5e(%rip)        # 3ff8 <__cxa_finalize@GLIBC_2.2.5>
+    119a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+Disassembly of section .plt.sec:
+
+00000000000011a0 <free@plt>:
+    11a0:	f3 0f 1e fa          	endbr64
+    11a4:	ff 25 7e 2d 00 00    	jmp    *0x2d7e(%rip)        # 3f28 <free@GLIBC_2.2.5>
+    11aa:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000011b0 <strcpy@plt>:
+    11b0:	f3 0f 1e fa          	endbr64
+    11b4:	ff 25 76 2d 00 00    	jmp    *0x2d76(%rip)        # 3f30 <strcpy@GLIBC_2.2.5>
+    11ba:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000011c0 <toupper@plt>:
+    11c0:	f3 0f 1e fa          	endbr64
+    11c4:	ff 25 6e 2d 00 00    	jmp    *0x2d6e(%rip)        # 3f38 <toupper@GLIBC_2.2.5>
+    11ca:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000011d0 <puts@plt>:
+    11d0:	f3 0f 1e fa          	endbr64
+    11d4:	ff 25 66 2d 00 00    	jmp    *0x2d66(%rip)        # 3f40 <puts@GLIBC_2.2.5>
+    11da:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000011e0 <strlen@plt>:
+    11e0:	f3 0f 1e fa          	endbr64
+    11e4:	ff 25 5e 2d 00 00    	jmp    *0x2d5e(%rip)        # 3f48 <strlen@GLIBC_2.2.5>
+    11ea:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000011f0 <__stack_chk_fail@plt>:
+    11f0:	f3 0f 1e fa          	endbr64
+    11f4:	ff 25 56 2d 00 00    	jmp    *0x2d56(%rip)        # 3f50 <__stack_chk_fail@GLIBC_2.4>
+    11fa:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001200 <list_get_data@plt>:
+    1200:	f3 0f 1e fa          	endbr64
+    1204:	ff 25 4e 2d 00 00    	jmp    *0x2d4e(%rip)        # 3f58 <list_get_data@Base>
+    120a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001210 <list_get_next@plt>:
+    1210:	f3 0f 1e fa          	endbr64
+    1214:	ff 25 46 2d 00 00    	jmp    *0x2d46(%rip)        # 3f60 <list_get_next@Base>
+    121a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001220 <printf@plt>:
+    1220:	f3 0f 1e fa          	endbr64
+    1224:	ff 25 3e 2d 00 00    	jmp    *0x2d3e(%rip)        # 3f68 <printf@GLIBC_2.2.5>
+    122a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001230 <list_create@plt>:
+    1230:	f3 0f 1e fa          	endbr64
+    1234:	ff 25 36 2d 00 00    	jmp    *0x2d36(%rip)        # 3f70 <list_create@Base>
+    123a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001240 <fgets@plt>:
+    1240:	f3 0f 1e fa          	endbr64
+    1244:	ff 25 2e 2d 00 00    	jmp    *0x2d2e(%rip)        # 3f78 <fgets@GLIBC_2.2.5>
+    124a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001250 <list_insert_next@plt>:
+    1250:	f3 0f 1e fa          	endbr64
+    1254:	ff 25 26 2d 00 00    	jmp    *0x2d26(%rip)        # 3f80 <list_insert_next@Base>
+    125a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001260 <strcmp@plt>:
+    1260:	f3 0f 1e fa          	endbr64
+    1264:	ff 25 1e 2d 00 00    	jmp    *0x2d1e(%rip)        # 3f88 <strcmp@GLIBC_2.2.5>
+    126a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001270 <time@plt>:
+    1270:	f3 0f 1e fa          	endbr64
+    1274:	ff 25 16 2d 00 00    	jmp    *0x2d16(%rip)        # 3f90 <time@GLIBC_2.2.5>
+    127a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001280 <malloc@plt>:
+    1280:	f3 0f 1e fa          	endbr64
+    1284:	ff 25 0e 2d 00 00    	jmp    *0x2d0e(%rip)        # 3f98 <malloc@GLIBC_2.2.5>
+    128a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001290 <list_foreach@plt>:
+    1290:	f3 0f 1e fa          	endbr64
+    1294:	ff 25 06 2d 00 00    	jmp    *0x2d06(%rip)        # 3fa0 <list_foreach@Base>
+    129a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000012a0 <strtok@plt>:
+    12a0:	f3 0f 1e fa          	endbr64
+    12a4:	ff 25 fe 2c 00 00    	jmp    *0x2cfe(%rip)        # 3fa8 <strtok@GLIBC_2.2.5>
+    12aa:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000012b0 <exit@plt>:
+    12b0:	f3 0f 1e fa          	endbr64
+    12b4:	ff 25 f6 2c 00 00    	jmp    *0x2cf6(%rip)        # 3fb0 <exit@GLIBC_2.2.5>
+    12ba:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000012c0 <fwrite@plt>:
+    12c0:	f3 0f 1e fa          	endbr64
+    12c4:	ff 25 ee 2c 00 00    	jmp    *0x2cee(%rip)        # 3fb8 <fwrite@GLIBC_2.2.5>
+    12ca:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000012d0 <list_search@plt>:
+    12d0:	f3 0f 1e fa          	endbr64
+    12d4:	ff 25 e6 2c 00 00    	jmp    *0x2ce6(%rip)        # 3fc0 <list_search@Base>
+    12da:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000012e0 <list_empty@plt>:
+    12e0:	f3 0f 1e fa          	endbr64
+    12e4:	ff 25 de 2c 00 00    	jmp    *0x2cde(%rip)        # 3fc8 <list_empty@Base>
+    12ea:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000012f0 <list_remove@plt>:
+    12f0:	f3 0f 1e fa          	endbr64
+    12f4:	ff 25 d6 2c 00 00    	jmp    *0x2cd6(%rip)        # 3fd0 <list_remove@Base>
+    12fa:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+Disassembly of section .text:
+
+0000000000001300 <_start>:
+    1300:	f3 0f 1e fa          	endbr64
+    1304:	31 ed                	xor    %ebp,%ebp
+    1306:	49 89 d1             	mov    %rdx,%r9
+    1309:	5e                   	pop    %rsi
+    130a:	48 89 e2             	mov    %rsp,%rdx
+    130d:	48 83 e4 f0          	and    $0xfffffffffffffff0,%rsp
+    1311:	50                   	push   %rax
+    1312:	54                   	push   %rsp
+    1313:	45 31 c0             	xor    %r8d,%r8d
+    1316:	31 c9                	xor    %ecx,%ecx
+    1318:	48 8d 3d 00 04 00 00 	lea    0x400(%rip),%rdi        # 171f <main>
+    131f:	ff 15 b3 2c 00 00    	call   *0x2cb3(%rip)        # 3fd8 <__libc_start_main@GLIBC_2.34>
+    1325:	f4                   	hlt
+    1326:	66 2e 0f 1f 84 00 00 	cs nopw 0x0(%rax,%rax,1)
+    132d:	00 00 00 
+
+0000000000001330 <deregister_tm_clones>:
+    1330:	48 8d 3d d9 2c 00 00 	lea    0x2cd9(%rip),%rdi        # 4010 <__TMC_END__>
+    1337:	48 8d 05 d2 2c 00 00 	lea    0x2cd2(%rip),%rax        # 4010 <__TMC_END__>
+    133e:	48 39 f8             	cmp    %rdi,%rax
+    1341:	74 15                	je     1358 <deregister_tm_clones+0x28>
+    1343:	48 8b 05 96 2c 00 00 	mov    0x2c96(%rip),%rax        # 3fe0 <_ITM_deregisterTMCloneTable@Base>
+    134a:	48 85 c0             	test   %rax,%rax
+    134d:	74 09                	je     1358 <deregister_tm_clones+0x28>
+    134f:	ff e0                	jmp    *%rax
+    1351:	0f 1f 80 00 00 00 00 	nopl   0x0(%rax)
+    1358:	c3                   	ret
+    1359:	0f 1f 80 00 00 00 00 	nopl   0x0(%rax)
+
+0000000000001360 <register_tm_clones>:
+    1360:	48 8d 3d a9 2c 00 00 	lea    0x2ca9(%rip),%rdi        # 4010 <__TMC_END__>
+    1367:	48 8d 35 a2 2c 00 00 	lea    0x2ca2(%rip),%rsi        # 4010 <__TMC_END__>
+    136e:	48 29 fe             	sub    %rdi,%rsi
+    1371:	48 89 f0             	mov    %rsi,%rax
+    1374:	48 c1 ee 3f          	shr    $0x3f,%rsi
+    1378:	48 c1 f8 03          	sar    $0x3,%rax
+    137c:	48 01 c6             	add    %rax,%rsi
+    137f:	48 d1 fe             	sar    %rsi
+    1382:	74 14                	je     1398 <register_tm_clones+0x38>
+    1384:	48 8b 05 65 2c 00 00 	mov    0x2c65(%rip),%rax        # 3ff0 <_ITM_registerTMCloneTable@Base>
+    138b:	48 85 c0             	test   %rax,%rax
+    138e:	74 08                	je     1398 <register_tm_clones+0x38>
+    1390:	ff e0                	jmp    *%rax
+    1392:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+    1398:	c3                   	ret
+    1399:	0f 1f 80 00 00 00 00 	nopl   0x0(%rax)
+
+00000000000013a0 <__do_global_dtors_aux>:
+    13a0:	f3 0f 1e fa          	endbr64
+    13a4:	80 3d 9d 2c 00 00 00 	cmpb   $0x0,0x2c9d(%rip)        # 4048 <completed.0>
+    13ab:	75 2b                	jne    13d8 <__do_global_dtors_aux+0x38>
+    13ad:	55                   	push   %rbp
+    13ae:	48 83 3d 42 2c 00 00 	cmpq   $0x0,0x2c42(%rip)        # 3ff8 <__cxa_finalize@GLIBC_2.2.5>
+    13b5:	00 
+    13b6:	48 89 e5             	mov    %rsp,%rbp
+    13b9:	74 0c                	je     13c7 <__do_global_dtors_aux+0x27>
+    13bb:	48 8b 3d 46 2c 00 00 	mov    0x2c46(%rip),%rdi        # 4008 <__dso_handle>
+    13c2:	e8 c9 fd ff ff       	call   1190 <__cxa_finalize@plt>
+    13c7:	e8 64 ff ff ff       	call   1330 <deregister_tm_clones>
+    13cc:	c6 05 75 2c 00 00 01 	movb   $0x1,0x2c75(%rip)        # 4048 <completed.0>
+    13d3:	5d                   	pop    %rbp
+    13d4:	c3                   	ret
+    13d5:	0f 1f 00             	nopl   (%rax)
+    13d8:	c3                   	ret
+    13d9:	0f 1f 80 00 00 00 00 	nopl   0x0(%rax)
+
+00000000000013e0 <frame_dummy>:
+    13e0:	f3 0f 1e fa          	endbr64
+    13e4:	e9 77 ff ff ff       	jmp    1360 <register_tm_clones>
+
+00000000000013e9 <user_insert>:
+    13e9:	f3 0f 1e fa          	endbr64
+    13ed:	55                   	push   %rbp
+    13ee:	48 89 e5             	mov    %rsp,%rbp
+    13f1:	48 83 ec 20          	sub    $0x20,%rsp
+    13f5:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    13f9:	bf 10 00 00 00       	mov    $0x10,%edi
+    13fe:	e8 7d fe ff ff       	call   1280 <malloc@plt>
+    1403:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1407:	48 83 7d f8 00       	cmpq   $0x0,-0x8(%rbp)
+    140c:	75 2a                	jne    1438 <user_insert+0x4f>
+    140e:	48 8b 05 2b 2c 00 00 	mov    0x2c2b(%rip),%rax        # 4040 <stderr@GLIBC_2.2.5>
+    1415:	48 8d 3d ec 0b 00 00 	lea    0xbec(%rip),%rdi        # 2008 <_IO_stdin_used+0x8>
+    141c:	48 89 c1             	mov    %rax,%rcx
+    141f:	ba 0e 00 00 00       	mov    $0xe,%edx
+    1424:	be 01 00 00 00       	mov    $0x1,%esi
+    1429:	e8 92 fe ff ff       	call   12c0 <fwrite@plt>
+    142e:	bf 01 00 00 00       	mov    $0x1,%edi
+    1433:	e8 78 fe ff ff       	call   12b0 <exit@plt>
+    1438:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    143c:	48 89 c7             	mov    %rax,%rdi
+    143f:	e8 9c fd ff ff       	call   11e0 <strlen@plt>
+    1444:	48 83 c0 01          	add    $0x1,%rax
+    1448:	48 89 c7             	mov    %rax,%rdi
+    144b:	e8 30 fe ff ff       	call   1280 <malloc@plt>
+    1450:	48 89 c2             	mov    %rax,%rdx
+    1453:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1457:	48 89 10             	mov    %rdx,(%rax)
+    145a:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    145e:	48 8b 00             	mov    (%rax),%rax
+    1461:	48 85 c0             	test   %rax,%rax
+    1464:	75 2a                	jne    1490 <user_insert+0xa7>
+    1466:	48 8b 05 d3 2b 00 00 	mov    0x2bd3(%rip),%rax        # 4040 <stderr@GLIBC_2.2.5>
+    146d:	48 8d 3d 94 0b 00 00 	lea    0xb94(%rip),%rdi        # 2008 <_IO_stdin_used+0x8>
+    1474:	48 89 c1             	mov    %rax,%rcx
+    1477:	ba 0e 00 00 00       	mov    $0xe,%edx
+    147c:	be 01 00 00 00       	mov    $0x1,%esi
+    1481:	e8 3a fe ff ff       	call   12c0 <fwrite@plt>
+    1486:	bf 01 00 00 00       	mov    $0x1,%edi
+    148b:	e8 20 fe ff ff       	call   12b0 <exit@plt>
+    1490:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1494:	48 8b 00             	mov    (%rax),%rax
+    1497:	48 8b 55 e8          	mov    -0x18(%rbp),%rdx
+    149b:	48 89 d6             	mov    %rdx,%rsi
+    149e:	48 89 c7             	mov    %rax,%rdi
+    14a1:	e8 0a fd ff ff       	call   11b0 <strcpy@plt>
+    14a6:	bf 00 00 00 00       	mov    $0x0,%edi
+    14ab:	e8 c0 fd ff ff       	call   1270 <time@plt>
+    14b0:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    14b4:	48 89 42 08          	mov    %rax,0x8(%rdx)
+    14b8:	48 8b 05 91 2b 00 00 	mov    0x2b91(%rip),%rax        # 4050 <queue>
+    14bf:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    14c3:	48 89 d6             	mov    %rdx,%rsi
+    14c6:	48 89 c7             	mov    %rax,%rdi
+    14c9:	e8 82 fd ff ff       	call   1250 <list_insert_next@plt>
+    14ce:	90                   	nop
+    14cf:	c9                   	leave
+    14d0:	c3                   	ret
+
+00000000000014d1 <user_answer>:
+    14d1:	f3 0f 1e fa          	endbr64
+    14d5:	55                   	push   %rbp
+    14d6:	48 89 e5             	mov    %rsp,%rbp
+    14d9:	48 83 ec 10          	sub    $0x10,%rsp
+    14dd:	48 8b 05 6c 2b 00 00 	mov    0x2b6c(%rip),%rax        # 4050 <queue>
+    14e4:	48 89 c7             	mov    %rax,%rdi
+    14e7:	e8 f4 fd ff ff       	call   12e0 <list_empty@plt>
+    14ec:	84 c0                	test   %al,%al
+    14ee:	74 07                	je     14f7 <user_answer+0x26>
+    14f0:	b8 00 00 00 00       	mov    $0x0,%eax
+    14f5:	eb 4d                	jmp    1544 <user_answer+0x73>
+    14f7:	48 8b 05 52 2b 00 00 	mov    0x2b52(%rip),%rax        # 4050 <queue>
+    14fe:	48 89 c7             	mov    %rax,%rdi
+    1501:	e8 0a fd ff ff       	call   1210 <list_get_next@plt>
+    1506:	48 89 c7             	mov    %rax,%rdi
+    1509:	e8 f2 fc ff ff       	call   1200 <list_get_data@plt>
+    150e:	48 89 45 f0          	mov    %rax,-0x10(%rbp)
+    1512:	48 8b 05 37 2b 00 00 	mov    0x2b37(%rip),%rax        # 4050 <queue>
+    1519:	48 89 c7             	mov    %rax,%rdi
+    151c:	e8 ef fc ff ff       	call   1210 <list_get_next@plt>
+    1521:	48 89 c7             	mov    %rax,%rdi
+    1524:	e8 c7 fd ff ff       	call   12f0 <list_remove@plt>
+    1529:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    152d:	48 8b 00             	mov    (%rax),%rax
+    1530:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1534:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    1538:	48 89 c7             	mov    %rax,%rdi
+    153b:	e8 60 fc ff ff       	call   11a0 <free@plt>
+    1540:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1544:	c9                   	leave
+    1545:	c3                   	ret
+
+0000000000001546 <name_cmp>:
+    1546:	f3 0f 1e fa          	endbr64
+    154a:	55                   	push   %rbp
+    154b:	48 89 e5             	mov    %rsp,%rbp
+    154e:	48 83 ec 20          	sub    $0x20,%rsp
+    1552:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    1556:	48 89 75 e0          	mov    %rsi,-0x20(%rbp)
+    155a:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    155e:	48 89 45 f0          	mov    %rax,-0x10(%rbp)
+    1562:	48 8b 45 e0          	mov    -0x20(%rbp),%rax
+    1566:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    156a:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    156e:	48 8b 00             	mov    (%rax),%rax
+    1571:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    1575:	48 89 d6             	mov    %rdx,%rsi
+    1578:	48 89 c7             	mov    %rax,%rdi
+    157b:	e8 e0 fc ff ff       	call   1260 <strcmp@plt>
+    1580:	85 c0                	test   %eax,%eax
+    1582:	0f 94 c0             	sete   %al
+    1585:	c9                   	leave
+    1586:	c3                   	ret
+
+0000000000001587 <user_remove>:
+    1587:	f3 0f 1e fa          	endbr64
+    158b:	55                   	push   %rbp
+    158c:	48 89 e5             	mov    %rsp,%rbp
+    158f:	48 83 ec 20          	sub    $0x20,%rsp
+    1593:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    1597:	48 8b 05 b2 2a 00 00 	mov    0x2ab2(%rip),%rax        # 4050 <queue>
+    159e:	48 8b 55 e8          	mov    -0x18(%rbp),%rdx
+    15a2:	48 8d 0d 9d ff ff ff 	lea    -0x63(%rip),%rcx        # 1546 <name_cmp>
+    15a9:	48 89 ce             	mov    %rcx,%rsi
+    15ac:	48 89 c7             	mov    %rax,%rdi
+    15af:	e8 1c fd ff ff       	call   12d0 <list_search@plt>
+    15b4:	48 89 45 f0          	mov    %rax,-0x10(%rbp)
+    15b8:	48 83 7d f0 00       	cmpq   $0x0,-0x10(%rbp)
+    15bd:	74 37                	je     15f6 <user_remove+0x6f>
+    15bf:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    15c3:	48 89 c7             	mov    %rax,%rdi
+    15c6:	e8 35 fc ff ff       	call   1200 <list_get_data@plt>
+    15cb:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    15cf:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    15d3:	48 8b 00             	mov    (%rax),%rax
+    15d6:	48 89 c7             	mov    %rax,%rdi
+    15d9:	e8 c2 fb ff ff       	call   11a0 <free@plt>
+    15de:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    15e2:	48 89 c7             	mov    %rax,%rdi
+    15e5:	e8 b6 fb ff ff       	call   11a0 <free@plt>
+    15ea:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    15ee:	48 89 c7             	mov    %rax,%rdi
+    15f1:	e8 fa fc ff ff       	call   12f0 <list_remove@plt>
+    15f6:	90                   	nop
+    15f7:	c9                   	leave
+    15f8:	c3                   	ret
+
+00000000000015f9 <delete>:
+    15f9:	f3 0f 1e fa          	endbr64
+    15fd:	55                   	push   %rbp
+    15fe:	48 89 e5             	mov    %rsp,%rbp
+    1601:	48 83 ec 20          	sub    $0x20,%rsp
+    1605:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    1609:	48 89 75 e0          	mov    %rsi,-0x20(%rbp)
+    160d:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    1611:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1615:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1619:	48 8b 00             	mov    (%rax),%rax
+    161c:	48 89 c7             	mov    %rax,%rdi
+    161f:	e8 7c fb ff ff       	call   11a0 <free@plt>
+    1624:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1628:	48 89 c7             	mov    %rax,%rdi
+    162b:	e8 70 fb ff ff       	call   11a0 <free@plt>
+    1630:	90                   	nop
+    1631:	c9                   	leave
+    1632:	c3                   	ret
+
+0000000000001633 <user_delete_queue>:
+    1633:	f3 0f 1e fa          	endbr64
+    1637:	55                   	push   %rbp
+    1638:	48 89 e5             	mov    %rsp,%rbp
+    163b:	48 8b 05 0e 2a 00 00 	mov    0x2a0e(%rip),%rax        # 4050 <queue>
+    1642:	48 8d 0d b0 ff ff ff 	lea    -0x50(%rip),%rcx        # 15f9 <delete>
+    1649:	ba 00 00 00 00       	mov    $0x0,%edx
+    164e:	48 89 ce             	mov    %rcx,%rsi
+    1651:	48 89 c7             	mov    %rax,%rdi
+    1654:	e8 37 fc ff ff       	call   1290 <list_foreach@plt>
+    1659:	90                   	nop
+    165a:	5d                   	pop    %rbp
+    165b:	c3                   	ret
+
+000000000000165c <print>:
+    165c:	f3 0f 1e fa          	endbr64
+    1660:	55                   	push   %rbp
+    1661:	48 89 e5             	mov    %rsp,%rbp
+    1664:	48 83 ec 20          	sub    $0x20,%rsp
+    1668:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    166c:	48 89 75 e0          	mov    %rsi,-0x20(%rbp)
+    1670:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    1674:	48 89 45 f0          	mov    %rax,-0x10(%rbp)
+    1678:	48 8b 45 e0          	mov    -0x20(%rbp),%rax
+    167c:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1680:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    1684:	48 8b 10             	mov    (%rax),%rdx
+    1687:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    168b:	8b 00                	mov    (%rax),%eax
+    168d:	8d 70 01             	lea    0x1(%rax),%esi
+    1690:	48 8b 4d f8          	mov    -0x8(%rbp),%rcx
+    1694:	89 31                	mov    %esi,(%rcx)
+    1696:	48 8d 0d 7a 09 00 00 	lea    0x97a(%rip),%rcx        # 2017 <_IO_stdin_used+0x17>
+    169d:	89 c6                	mov    %eax,%esi
+    169f:	48 89 cf             	mov    %rcx,%rdi
+    16a2:	b8 00 00 00 00       	mov    $0x0,%eax
+    16a7:	e8 74 fb ff ff       	call   1220 <printf@plt>
+    16ac:	90                   	nop
+    16ad:	c9                   	leave
+    16ae:	c3                   	ret
+
+00000000000016af <user_print>:
+    16af:	f3 0f 1e fa          	endbr64
+    16b3:	55                   	push   %rbp
+    16b4:	48 89 e5             	mov    %rsp,%rbp
+    16b7:	48 83 ec 10          	sub    $0x10,%rsp
+    16bb:	64 48 8b 04 25 28 00 	mov    %fs:0x28,%rax
+    16c2:	00 00 
+    16c4:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    16c8:	31 c0                	xor    %eax,%eax
+    16ca:	c7 45 f4 00 00 00 00 	movl   $0x0,-0xc(%rbp)
+    16d1:	48 8b 05 78 29 00 00 	mov    0x2978(%rip),%rax        # 4050 <queue>
+    16d8:	48 8d 55 f4          	lea    -0xc(%rbp),%rdx
+    16dc:	48 8d 0d 79 ff ff ff 	lea    -0x87(%rip),%rcx        # 165c <print>
+    16e3:	48 89 ce             	mov    %rcx,%rsi
+    16e6:	48 89 c7             	mov    %rax,%rdi
+    16e9:	e8 a2 fb ff ff       	call   1290 <list_foreach@plt>
+    16ee:	90                   	nop
+    16ef:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    16f3:	64 48 2b 04 25 28 00 	sub    %fs:0x28,%rax
+    16fa:	00 00 
+    16fc:	74 05                	je     1703 <user_print+0x54>
+    16fe:	e8 ed fa ff ff       	call   11f0 <__stack_chk_fail@plt>
+    1703:	c9                   	leave
+    1704:	c3                   	ret
+
+0000000000001705 <help>:
+    1705:	f3 0f 1e fa          	endbr64
+    1709:	55                   	push   %rbp
+    170a:	48 89 e5             	mov    %rsp,%rbp
+    170d:	48 8d 05 0c 09 00 00 	lea    0x90c(%rip),%rax        # 2020 <_IO_stdin_used+0x20>
+    1714:	48 89 c7             	mov    %rax,%rdi
+    1717:	e8 b4 fa ff ff       	call   11d0 <puts@plt>
+    171c:	90                   	nop
+    171d:	5d                   	pop    %rbp
+    171e:	c3                   	ret
+
+000000000000171f <main>:
+    171f:	f3 0f 1e fa          	endbr64
+    1723:	55                   	push   %rbp
+    1724:	48 89 e5             	mov    %rsp,%rbp
+    1727:	48 83 c4 80          	add    $0xffffffffffffff80,%rsp
+    172b:	64 48 8b 04 25 28 00 	mov    %fs:0x28,%rax
+    1732:	00 00 
+    1734:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1738:	31 c0                	xor    %eax,%eax
+    173a:	e8 f1 fa ff ff       	call   1230 <list_create@plt>
+    173f:	48 89 05 0a 29 00 00 	mov    %rax,0x290a(%rip)        # 4050 <queue>
+    1746:	48 8b 05 d3 28 00 00 	mov    0x28d3(%rip),%rax        # 4020 <stdout@GLIBC_2.2.5>
+    174d:	48 8d 3d c4 09 00 00 	lea    0x9c4(%rip),%rdi        # 2118 <_IO_stdin_used+0x118>
+    1754:	48 89 c1             	mov    %rax,%rcx
+    1757:	ba 02 00 00 00       	mov    $0x2,%edx
+    175c:	be 01 00 00 00       	mov    $0x1,%esi
+    1761:	e8 5a fb ff ff       	call   12c0 <fwrite@plt>
+    1766:	48 8b 15 c3 28 00 00 	mov    0x28c3(%rip),%rdx        # 4030 <stdin@GLIBC_2.2.5>
+    176d:	48 8d 45 90          	lea    -0x70(%rbp),%rax
+    1771:	be 64 00 00 00       	mov    $0x64,%esi
+    1776:	48 89 c7             	mov    %rax,%rdi
+    1779:	e8 c2 fa ff ff       	call   1240 <fgets@plt>
+    177e:	48 85 c0             	test   %rax,%rax
+    1781:	75 0a                	jne    178d <main+0x6e>
+    1783:	b8 01 00 00 00       	mov    $0x1,%eax
+    1788:	e9 29 01 00 00       	jmp    18b6 <main+0x197>
+    178d:	48 8d 15 87 09 00 00 	lea    0x987(%rip),%rdx        # 211b <_IO_stdin_used+0x11b>
+    1794:	48 8d 45 90          	lea    -0x70(%rbp),%rax
+    1798:	48 89 d6             	mov    %rdx,%rsi
+    179b:	48 89 c7             	mov    %rax,%rdi
+    179e:	e8 fd fa ff ff       	call   12a0 <strtok@plt>
+    17a3:	48 89 45 80          	mov    %rax,-0x80(%rbp)
+    17a7:	48 83 7d 80 00       	cmpq   $0x0,-0x80(%rbp)
+    17ac:	0f 84 fe 00 00 00    	je     18b0 <main+0x191>
+    17b2:	48 8d 05 62 09 00 00 	lea    0x962(%rip),%rax        # 211b <_IO_stdin_used+0x11b>
+    17b9:	48 89 c6             	mov    %rax,%rsi
+    17bc:	bf 00 00 00 00       	mov    $0x0,%edi
+    17c1:	e8 da fa ff ff       	call   12a0 <strtok@plt>
+    17c6:	48 89 45 88          	mov    %rax,-0x78(%rbp)
+    17ca:	48 8b 45 80          	mov    -0x80(%rbp),%rax
+    17ce:	0f b6 00             	movzbl (%rax),%eax
+    17d1:	0f be c0             	movsbl %al,%eax
+    17d4:	89 c7                	mov    %eax,%edi
+    17d6:	e8 e5 f9 ff ff       	call   11c0 <toupper@plt>
+    17db:	83 f8 73             	cmp    $0x73,%eax
+    17de:	74 50                	je     1830 <main+0x111>
+    17e0:	83 f8 73             	cmp    $0x73,%eax
+    17e3:	0f 8f 5d ff ff ff    	jg     1746 <main+0x27>
+    17e9:	83 f8 53             	cmp    $0x53,%eax
+    17ec:	74 42                	je     1830 <main+0x111>
+    17ee:	83 f8 53             	cmp    $0x53,%eax
+    17f1:	0f 8f 4f ff ff ff    	jg     1746 <main+0x27>
+    17f7:	83 f8 4e             	cmp    $0x4e,%eax
+    17fa:	74 47                	je     1843 <main+0x124>
+    17fc:	83 f8 4e             	cmp    $0x4e,%eax
+    17ff:	0f 8f 41 ff ff ff    	jg     1746 <main+0x27>
+    1805:	83 f8 4c             	cmp    $0x4c,%eax
+    1808:	74 55                	je     185f <main+0x140>
+    180a:	83 f8 4c             	cmp    $0x4c,%eax
+    180d:	0f 8f 33 ff ff ff    	jg     1746 <main+0x27>
+    1813:	83 f8 48             	cmp    $0x48,%eax
+    1816:	74 24                	je     183c <main+0x11d>
+    1818:	83 f8 48             	cmp    $0x48,%eax
+    181b:	0f 8f 25 ff ff ff    	jg     1746 <main+0x27>
+    1821:	83 f8 41             	cmp    $0x41,%eax
+    1824:	74 40                	je     1866 <main+0x147>
+    1826:	83 f8 44             	cmp    $0x44,%eax
+    1829:	74 26                	je     1851 <main+0x132>
+    182b:	e9 81 00 00 00       	jmp    18b1 <main+0x192>
+    1830:	e8 fe fd ff ff       	call   1633 <user_delete_queue>
+    1835:	b8 01 00 00 00       	mov    $0x1,%eax
+    183a:	eb 7a                	jmp    18b6 <main+0x197>
+    183c:	e8 c4 fe ff ff       	call   1705 <help>
+    1841:	eb 6e                	jmp    18b1 <main+0x192>
+    1843:	48 8b 45 88          	mov    -0x78(%rbp),%rax
+    1847:	48 89 c7             	mov    %rax,%rdi
+    184a:	e8 9a fb ff ff       	call   13e9 <user_insert>
+    184f:	eb 60                	jmp    18b1 <main+0x192>
+    1851:	48 8b 45 88          	mov    -0x78(%rbp),%rax
+    1855:	48 89 c7             	mov    %rax,%rdi
+    1858:	e8 2a fd ff ff       	call   1587 <user_remove>
+    185d:	eb 52                	jmp    18b1 <main+0x192>
+    185f:	e8 4b fe ff ff       	call   16af <user_print>
+    1864:	eb 4b                	jmp    18b1 <main+0x192>
+    1866:	e8 66 fc ff ff       	call   14d1 <user_answer>
+    186b:	48 89 45 88          	mov    %rax,-0x78(%rbp)
+    186f:	48 83 7d 88 00       	cmpq   $0x0,-0x78(%rbp)
+    1874:	75 11                	jne    1887 <main+0x168>
+    1876:	48 8d 05 a1 08 00 00 	lea    0x8a1(%rip),%rax        # 211e <_IO_stdin_used+0x11e>
+    187d:	48 89 c7             	mov    %rax,%rdi
+    1880:	e8 4b f9 ff ff       	call   11d0 <puts@plt>
+    1885:	eb 2a                	jmp    18b1 <main+0x192>
+    1887:	48 8b 45 88          	mov    -0x78(%rbp),%rax
+    188b:	48 8d 15 97 08 00 00 	lea    0x897(%rip),%rdx        # 2129 <_IO_stdin_used+0x129>
+    1892:	48 89 c6             	mov    %rax,%rsi
+    1895:	48 89 d7             	mov    %rdx,%rdi
+    1898:	b8 00 00 00 00       	mov    $0x0,%eax
+    189d:	e8 7e f9 ff ff       	call   1220 <printf@plt>
+    18a2:	48 8b 45 88          	mov    -0x78(%rbp),%rax
+    18a6:	48 89 c7             	mov    %rax,%rdi
+    18a9:	e8 f2 f8 ff ff       	call   11a0 <free@plt>
+    18ae:	eb 01                	jmp    18b1 <main+0x192>
+    18b0:	90                   	nop
+    18b1:	e9 90 fe ff ff       	jmp    1746 <main+0x27>
+    18b6:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    18ba:	64 48 2b 14 25 28 00 	sub    %fs:0x28,%rdx
+    18c1:	00 00 
+    18c3:	74 05                	je     18ca <main+0x1ab>
+    18c5:	e8 26 f9 ff ff       	call   11f0 <__stack_chk_fail@plt>
+    18ca:	c9                   	leave
+    18cb:	c3                   	ret
+
+Disassembly of section .fini:
+
+00000000000018cc <_fini>:
+    18cc:	f3 0f 1e fa          	endbr64
+    18d0:	48 83 ec 08          	sub    $0x8,%rsp
+    18d4:	48 83 c4 08          	add    $0x8,%rsp
+    18d8:	c3                   	ret
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ qobjdump -d a.out [C[C[C[C[C[C[C[C[C[Cls -l[Kgcc wqueue3.c liblist.so[K[Ka
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ gcc wqueue3.c liblist.a[C[C[C[C[C[C[C[C[C[C[6Pobjdump -d a.out [C[C[C[C[C[C[C[C[C[Cls -l[Kobjdump -d a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\
+a.out:     file format elf64-x86-64
+
+
+Disassembly of section .init:
+
+0000000000001000 <_init>:
+    1000:	f3 0f 1e fa          	endbr64
+    1004:	48 83 ec 08          	sub    $0x8,%rsp
+    1008:	48 8b 05 d9 2f 00 00 	mov    0x2fd9(%rip),%rax        # 3fe8 <__gmon_start__@Base>
+    100f:	48 85 c0             	test   %rax,%rax
+    1012:	74 02                	je     1016 <_init+0x16>
+    1014:	ff d0                	call   *%rax
+    1016:	48 83 c4 08          	add    $0x8,%rsp
+    101a:	c3                   	ret
+
+Disassembly of section .plt:
+
+0000000000001020 <.plt>:
+    1020:	ff 35 32 2f 00 00    	push   0x2f32(%rip)        # 3f58 <_GLOBAL_OFFSET_TABLE_+0x8>
+    1026:	ff 25 34 2f 00 00    	jmp    *0x2f34(%rip)        # 3f60 <_GLOBAL_OFFSET_TABLE_+0x10>
+    102c:	0f 1f 40 00          	nopl   0x0(%rax)
+    1030:	f3 0f 1e fa          	endbr64
+    1034:	68 00 00 00 00       	push   $0x0
+    1039:	e9 e2 ff ff ff       	jmp    1020 <_init+0x20>
+    103e:	66 90                	xchg   %ax,%ax
+    1040:	f3 0f 1e fa          	endbr64
+    1044:	68 01 00 00 00       	push   $0x1
+    1049:	e9 d2 ff ff ff       	jmp    1020 <_init+0x20>
+    104e:	66 90                	xchg   %ax,%ax
+    1050:	f3 0f 1e fa          	endbr64
+    1054:	68 02 00 00 00       	push   $0x2
+    1059:	e9 c2 ff ff ff       	jmp    1020 <_init+0x20>
+    105e:	66 90                	xchg   %ax,%ax
+    1060:	f3 0f 1e fa          	endbr64
+    1064:	68 03 00 00 00       	push   $0x3
+    1069:	e9 b2 ff ff ff       	jmp    1020 <_init+0x20>
+    106e:	66 90                	xchg   %ax,%ax
+    1070:	f3 0f 1e fa          	endbr64
+    1074:	68 04 00 00 00       	push   $0x4
+    1079:	e9 a2 ff ff ff       	jmp    1020 <_init+0x20>
+    107e:	66 90                	xchg   %ax,%ax
+    1080:	f3 0f 1e fa          	endbr64
+    1084:	68 05 00 00 00       	push   $0x5
+    1089:	e9 92 ff ff ff       	jmp    1020 <_init+0x20>
+    108e:	66 90                	xchg   %ax,%ax
+    1090:	f3 0f 1e fa          	endbr64
+    1094:	68 06 00 00 00       	push   $0x6
+    1099:	e9 82 ff ff ff       	jmp    1020 <_init+0x20>
+    109e:	66 90                	xchg   %ax,%ax
+    10a0:	f3 0f 1e fa          	endbr64
+    10a4:	68 07 00 00 00       	push   $0x7
+    10a9:	e9 72 ff ff ff       	jmp    1020 <_init+0x20>
+    10ae:	66 90                	xchg   %ax,%ax
+    10b0:	f3 0f 1e fa          	endbr64
+    10b4:	68 08 00 00 00       	push   $0x8
+    10b9:	e9 62 ff ff ff       	jmp    1020 <_init+0x20>
+    10be:	66 90                	xchg   %ax,%ax
+    10c0:	f3 0f 1e fa          	endbr64
+    10c4:	68 09 00 00 00       	push   $0x9
+    10c9:	e9 52 ff ff ff       	jmp    1020 <_init+0x20>
+    10ce:	66 90                	xchg   %ax,%ax
+    10d0:	f3 0f 1e fa          	endbr64
+    10d4:	68 0a 00 00 00       	push   $0xa
+    10d9:	e9 42 ff ff ff       	jmp    1020 <_init+0x20>
+    10de:	66 90                	xchg   %ax,%ax
+    10e0:	f3 0f 1e fa          	endbr64
+    10e4:	68 0b 00 00 00       	push   $0xb
+    10e9:	e9 32 ff ff ff       	jmp    1020 <_init+0x20>
+    10ee:	66 90                	xchg   %ax,%ax
+    10f0:	f3 0f 1e fa          	endbr64
+    10f4:	68 0c 00 00 00       	push   $0xc
+    10f9:	e9 22 ff ff ff       	jmp    1020 <_init+0x20>
+    10fe:	66 90                	xchg   %ax,%ax
+    1100:	f3 0f 1e fa          	endbr64
+    1104:	68 0d 00 00 00       	push   $0xd
+    1109:	e9 12 ff ff ff       	jmp    1020 <_init+0x20>
+    110e:	66 90                	xchg   %ax,%ax
+
+Disassembly of section .plt.got:
+
+0000000000001110 <__cxa_finalize@plt>:
+    1110:	f3 0f 1e fa          	endbr64
+    1114:	ff 25 de 2e 00 00    	jmp    *0x2ede(%rip)        # 3ff8 <__cxa_finalize@GLIBC_2.2.5>
+    111a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+Disassembly of section .plt.sec:
+
+0000000000001120 <free@plt>:
+    1120:	f3 0f 1e fa          	endbr64
+    1124:	ff 25 3e 2e 00 00    	jmp    *0x2e3e(%rip)        # 3f68 <free@GLIBC_2.2.5>
+    112a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001130 <strcpy@plt>:
+    1130:	f3 0f 1e fa          	endbr64
+    1134:	ff 25 36 2e 00 00    	jmp    *0x2e36(%rip)        # 3f70 <strcpy@GLIBC_2.2.5>
+    113a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001140 <toupper@plt>:
+    1140:	f3 0f 1e fa          	endbr64
+    1144:	ff 25 2e 2e 00 00    	jmp    *0x2e2e(%rip)        # 3f78 <toupper@GLIBC_2.2.5>
+    114a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001150 <puts@plt>:
+    1150:	f3 0f 1e fa          	endbr64
+    1154:	ff 25 26 2e 00 00    	jmp    *0x2e26(%rip)        # 3f80 <puts@GLIBC_2.2.5>
+    115a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001160 <strlen@plt>:
+    1160:	f3 0f 1e fa          	endbr64
+    1164:	ff 25 1e 2e 00 00    	jmp    *0x2e1e(%rip)        # 3f88 <strlen@GLIBC_2.2.5>
+    116a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001170 <__stack_chk_fail@plt>:
+    1170:	f3 0f 1e fa          	endbr64
+    1174:	ff 25 16 2e 00 00    	jmp    *0x2e16(%rip)        # 3f90 <__stack_chk_fail@GLIBC_2.4>
+    117a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001180 <printf@plt>:
+    1180:	f3 0f 1e fa          	endbr64
+    1184:	ff 25 0e 2e 00 00    	jmp    *0x2e0e(%rip)        # 3f98 <printf@GLIBC_2.2.5>
+    118a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+0000000000001190 <fgets@plt>:
+    1190:	f3 0f 1e fa          	endbr64
+    1194:	ff 25 06 2e 00 00    	jmp    *0x2e06(%rip)        # 3fa0 <fgets@GLIBC_2.2.5>
+    119a:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000011a0 <strcmp@plt>:
+    11a0:	f3 0f 1e fa          	endbr64
+    11a4:	ff 25 fe 2d 00 00    	jmp    *0x2dfe(%rip)        # 3fa8 <strcmp@GLIBC_2.2.5>
+    11aa:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000011b0 <time@plt>:
+    11b0:	f3 0f 1e fa          	endbr64
+    11b4:	ff 25 f6 2d 00 00    	jmp    *0x2df6(%rip)        # 3fb0 <time@GLIBC_2.2.5>
+    11ba:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000011c0 <malloc@plt>:
+    11c0:	f3 0f 1e fa          	endbr64
+    11c4:	ff 25 ee 2d 00 00    	jmp    *0x2dee(%rip)        # 3fb8 <malloc@GLIBC_2.2.5>
+    11ca:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000011d0 <strtok@plt>:
+    11d0:	f3 0f 1e fa          	endbr64
+    11d4:	ff 25 e6 2d 00 00    	jmp    *0x2de6(%rip)        # 3fc0 <strtok@GLIBC_2.2.5>
+    11da:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000011e0 <exit@plt>:
+    11e0:	f3 0f 1e fa          	endbr64
+    11e4:	ff 25 de 2d 00 00    	jmp    *0x2dde(%rip)        # 3fc8 <exit@GLIBC_2.2.5>
+    11ea:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+00000000000011f0 <fwrite@plt>:
+    11f0:	f3 0f 1e fa          	endbr64
+    11f4:	ff 25 d6 2d 00 00    	jmp    *0x2dd6(%rip)        # 3fd0 <fwrite@GLIBC_2.2.5>
+    11fa:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+
+Disassembly of section .text:
+
+0000000000001200 <_start>:
+    1200:	f3 0f 1e fa          	endbr64
+    1204:	31 ed                	xor    %ebp,%ebp
+    1206:	49 89 d1             	mov    %rdx,%r9
+    1209:	5e                   	pop    %rsi
+    120a:	48 89 e2             	mov    %rsp,%rdx
+    120d:	48 83 e4 f0          	and    $0xfffffffffffffff0,%rsp
+    1211:	50                   	push   %rax
+    1212:	54                   	push   %rsp
+    1213:	45 31 c0             	xor    %r8d,%r8d
+    1216:	31 c9                	xor    %ecx,%ecx
+    1218:	48 8d 3d 00 04 00 00 	lea    0x400(%rip),%rdi        # 161f <main>
+    121f:	ff 15 b3 2d 00 00    	call   *0x2db3(%rip)        # 3fd8 <__libc_start_main@GLIBC_2.34>
+    1225:	f4                   	hlt
+    1226:	66 2e 0f 1f 84 00 00 	cs nopw 0x0(%rax,%rax,1)
+    122d:	00 00 00 
+
+0000000000001230 <deregister_tm_clones>:
+    1230:	48 8d 3d d9 2d 00 00 	lea    0x2dd9(%rip),%rdi        # 4010 <__TMC_END__>
+    1237:	48 8d 05 d2 2d 00 00 	lea    0x2dd2(%rip),%rax        # 4010 <__TMC_END__>
+    123e:	48 39 f8             	cmp    %rdi,%rax
+    1241:	74 15                	je     1258 <deregister_tm_clones+0x28>
+    1243:	48 8b 05 96 2d 00 00 	mov    0x2d96(%rip),%rax        # 3fe0 <_ITM_deregisterTMCloneTable@Base>
+    124a:	48 85 c0             	test   %rax,%rax
+    124d:	74 09                	je     1258 <deregister_tm_clones+0x28>
+    124f:	ff e0                	jmp    *%rax
+    1251:	0f 1f 80 00 00 00 00 	nopl   0x0(%rax)
+    1258:	c3                   	ret
+    1259:	0f 1f 80 00 00 00 00 	nopl   0x0(%rax)
+
+0000000000001260 <register_tm_clones>:
+    1260:	48 8d 3d a9 2d 00 00 	lea    0x2da9(%rip),%rdi        # 4010 <__TMC_END__>
+    1267:	48 8d 35 a2 2d 00 00 	lea    0x2da2(%rip),%rsi        # 4010 <__TMC_END__>
+    126e:	48 29 fe             	sub    %rdi,%rsi
+    1271:	48 89 f0             	mov    %rsi,%rax
+    1274:	48 c1 ee 3f          	shr    $0x3f,%rsi
+    1278:	48 c1 f8 03          	sar    $0x3,%rax
+    127c:	48 01 c6             	add    %rax,%rsi
+    127f:	48 d1 fe             	sar    %rsi
+    1282:	74 14                	je     1298 <register_tm_clones+0x38>
+    1284:	48 8b 05 65 2d 00 00 	mov    0x2d65(%rip),%rax        # 3ff0 <_ITM_registerTMCloneTable@Base>
+    128b:	48 85 c0             	test   %rax,%rax
+    128e:	74 08                	je     1298 <register_tm_clones+0x38>
+    1290:	ff e0                	jmp    *%rax
+    1292:	66 0f 1f 44 00 00    	nopw   0x0(%rax,%rax,1)
+    1298:	c3                   	ret
+    1299:	0f 1f 80 00 00 00 00 	nopl   0x0(%rax)
+
+00000000000012a0 <__do_global_dtors_aux>:
+    12a0:	f3 0f 1e fa          	endbr64
+    12a4:	80 3d 9d 2d 00 00 00 	cmpb   $0x0,0x2d9d(%rip)        # 4048 <completed.0>
+    12ab:	75 2b                	jne    12d8 <__do_global_dtors_aux+0x38>
+    12ad:	55                   	push   %rbp
+    12ae:	48 83 3d 42 2d 00 00 	cmpq   $0x0,0x2d42(%rip)        # 3ff8 <__cxa_finalize@GLIBC_2.2.5>
+    12b5:	00 
+    12b6:	48 89 e5             	mov    %rsp,%rbp
+    12b9:	74 0c                	je     12c7 <__do_global_dtors_aux+0x27>
+    12bb:	48 8b 3d 46 2d 00 00 	mov    0x2d46(%rip),%rdi        # 4008 <__dso_handle>
+    12c2:	e8 49 fe ff ff       	call   1110 <__cxa_finalize@plt>
+    12c7:	e8 64 ff ff ff       	call   1230 <deregister_tm_clones>
+    12cc:	c6 05 75 2d 00 00 01 	movb   $0x1,0x2d75(%rip)        # 4048 <completed.0>
+    12d3:	5d                   	pop    %rbp
+    12d4:	c3                   	ret
+    12d5:	0f 1f 00             	nopl   (%rax)
+    12d8:	c3                   	ret
+    12d9:	0f 1f 80 00 00 00 00 	nopl   0x0(%rax)
+
+00000000000012e0 <frame_dummy>:
+    12e0:	f3 0f 1e fa          	endbr64
+    12e4:	e9 77 ff ff ff       	jmp    1260 <register_tm_clones>
+
+00000000000012e9 <user_insert>:
+    12e9:	f3 0f 1e fa          	endbr64
+    12ed:	55                   	push   %rbp
+    12ee:	48 89 e5             	mov    %rsp,%rbp
+    12f1:	48 83 ec 20          	sub    $0x20,%rsp
+    12f5:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    12f9:	bf 10 00 00 00       	mov    $0x10,%edi
+    12fe:	e8 bd fe ff ff       	call   11c0 <malloc@plt>
+    1303:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1307:	48 83 7d f8 00       	cmpq   $0x0,-0x8(%rbp)
+    130c:	75 2a                	jne    1338 <user_insert+0x4f>
+    130e:	48 8b 05 2b 2d 00 00 	mov    0x2d2b(%rip),%rax        # 4040 <stderr@GLIBC_2.2.5>
+    1315:	48 8d 3d ec 0c 00 00 	lea    0xcec(%rip),%rdi        # 2008 <_IO_stdin_used+0x8>
+    131c:	48 89 c1             	mov    %rax,%rcx
+    131f:	ba 0e 00 00 00       	mov    $0xe,%edx
+    1324:	be 01 00 00 00       	mov    $0x1,%esi
+    1329:	e8 c2 fe ff ff       	call   11f0 <fwrite@plt>
+    132e:	bf 01 00 00 00       	mov    $0x1,%edi
+    1333:	e8 a8 fe ff ff       	call   11e0 <exit@plt>
+    1338:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    133c:	48 89 c7             	mov    %rax,%rdi
+    133f:	e8 1c fe ff ff       	call   1160 <strlen@plt>
+    1344:	48 83 c0 01          	add    $0x1,%rax
+    1348:	48 89 c7             	mov    %rax,%rdi
+    134b:	e8 70 fe ff ff       	call   11c0 <malloc@plt>
+    1350:	48 89 c2             	mov    %rax,%rdx
+    1353:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1357:	48 89 10             	mov    %rdx,(%rax)
+    135a:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    135e:	48 8b 00             	mov    (%rax),%rax
+    1361:	48 85 c0             	test   %rax,%rax
+    1364:	75 2a                	jne    1390 <user_insert+0xa7>
+    1366:	48 8b 05 d3 2c 00 00 	mov    0x2cd3(%rip),%rax        # 4040 <stderr@GLIBC_2.2.5>
+    136d:	48 8d 3d 94 0c 00 00 	lea    0xc94(%rip),%rdi        # 2008 <_IO_stdin_used+0x8>
+    1374:	48 89 c1             	mov    %rax,%rcx
+    1377:	ba 0e 00 00 00       	mov    $0xe,%edx
+    137c:	be 01 00 00 00       	mov    $0x1,%esi
+    1381:	e8 6a fe ff ff       	call   11f0 <fwrite@plt>
+    1386:	bf 01 00 00 00       	mov    $0x1,%edi
+    138b:	e8 50 fe ff ff       	call   11e0 <exit@plt>
+    1390:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1394:	48 8b 00             	mov    (%rax),%rax
+    1397:	48 8b 55 e8          	mov    -0x18(%rbp),%rdx
+    139b:	48 89 d6             	mov    %rdx,%rsi
+    139e:	48 89 c7             	mov    %rax,%rdi
+    13a1:	e8 8a fd ff ff       	call   1130 <strcpy@plt>
+    13a6:	bf 00 00 00 00       	mov    $0x0,%edi
+    13ab:	e8 00 fe ff ff       	call   11b0 <time@plt>
+    13b0:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    13b4:	48 89 42 08          	mov    %rax,0x8(%rdx)
+    13b8:	48 8b 05 91 2c 00 00 	mov    0x2c91(%rip),%rax        # 4050 <queue>
+    13bf:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    13c3:	48 89 d6             	mov    %rdx,%rsi
+    13c6:	48 89 c7             	mov    %rax,%rdi
+    13c9:	e8 75 04 00 00       	call   1843 <list_insert_next>
+    13ce:	90                   	nop
+    13cf:	c9                   	leave
+    13d0:	c3                   	ret
+
+00000000000013d1 <user_answer>:
+    13d1:	f3 0f 1e fa          	endbr64
+    13d5:	55                   	push   %rbp
+    13d6:	48 89 e5             	mov    %rsp,%rbp
+    13d9:	48 83 ec 10          	sub    $0x10,%rsp
+    13dd:	48 8b 05 6c 2c 00 00 	mov    0x2c6c(%rip),%rax        # 4050 <queue>
+    13e4:	48 89 c7             	mov    %rax,%rdi
+    13e7:	e8 cd 05 00 00       	call   19b9 <list_empty>
+    13ec:	84 c0                	test   %al,%al
+    13ee:	74 07                	je     13f7 <user_answer+0x26>
+    13f0:	b8 00 00 00 00       	mov    $0x0,%eax
+    13f5:	eb 4d                	jmp    1444 <user_answer+0x73>
+    13f7:	48 8b 05 52 2c 00 00 	mov    0x2c52(%rip),%rax        # 4050 <queue>
+    13fe:	48 89 c7             	mov    %rax,%rdi
+    1401:	e8 dc 03 00 00       	call   17e2 <list_get_next>
+    1406:	48 89 c7             	mov    %rax,%rdi
+    1409:	e8 be 03 00 00       	call   17cc <list_get_data>
+    140e:	48 89 45 f0          	mov    %rax,-0x10(%rbp)
+    1412:	48 8b 05 37 2c 00 00 	mov    0x2c37(%rip),%rax        # 4050 <queue>
+    1419:	48 89 c7             	mov    %rax,%rdi
+    141c:	e8 c1 03 00 00       	call   17e2 <list_get_next>
+    1421:	48 89 c7             	mov    %rax,%rdi
+    1424:	e8 90 04 00 00       	call   18b9 <list_remove>
+    1429:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    142d:	48 8b 00             	mov    (%rax),%rax
+    1430:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1434:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    1438:	48 89 c7             	mov    %rax,%rdi
+    143b:	e8 e0 fc ff ff       	call   1120 <free@plt>
+    1440:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1444:	c9                   	leave
+    1445:	c3                   	ret
+
+0000000000001446 <name_cmp>:
+    1446:	f3 0f 1e fa          	endbr64
+    144a:	55                   	push   %rbp
+    144b:	48 89 e5             	mov    %rsp,%rbp
+    144e:	48 83 ec 20          	sub    $0x20,%rsp
+    1452:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    1456:	48 89 75 e0          	mov    %rsi,-0x20(%rbp)
+    145a:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    145e:	48 89 45 f0          	mov    %rax,-0x10(%rbp)
+    1462:	48 8b 45 e0          	mov    -0x20(%rbp),%rax
+    1466:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    146a:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    146e:	48 8b 00             	mov    (%rax),%rax
+    1471:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    1475:	48 89 d6             	mov    %rdx,%rsi
+    1478:	48 89 c7             	mov    %rax,%rdi
+    147b:	e8 20 fd ff ff       	call   11a0 <strcmp@plt>
+    1480:	85 c0                	test   %eax,%eax
+    1482:	0f 94 c0             	sete   %al
+    1485:	c9                   	leave
+    1486:	c3                   	ret
+
+0000000000001487 <user_remove>:
+    1487:	f3 0f 1e fa          	endbr64
+    148b:	55                   	push   %rbp
+    148c:	48 89 e5             	mov    %rsp,%rbp
+    148f:	48 83 ec 20          	sub    $0x20,%rsp
+    1493:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    1497:	48 8b 05 b2 2b 00 00 	mov    0x2bb2(%rip),%rax        # 4050 <queue>
+    149e:	48 8b 55 e8          	mov    -0x18(%rbp),%rdx
+    14a2:	48 8d 0d 9d ff ff ff 	lea    -0x63(%rip),%rcx        # 1446 <name_cmp>
+    14a9:	48 89 ce             	mov    %rcx,%rsi
+    14ac:	48 89 c7             	mov    %rax,%rdi
+    14af:	e8 9f 04 00 00       	call   1953 <list_search>
+    14b4:	48 89 45 f0          	mov    %rax,-0x10(%rbp)
+    14b8:	48 83 7d f0 00       	cmpq   $0x0,-0x10(%rbp)
+    14bd:	74 37                	je     14f6 <user_remove+0x6f>
+    14bf:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    14c3:	48 89 c7             	mov    %rax,%rdi
+    14c6:	e8 01 03 00 00       	call   17cc <list_get_data>
+    14cb:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    14cf:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    14d3:	48 8b 00             	mov    (%rax),%rax
+    14d6:	48 89 c7             	mov    %rax,%rdi
+    14d9:	e8 42 fc ff ff       	call   1120 <free@plt>
+    14de:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    14e2:	48 89 c7             	mov    %rax,%rdi
+    14e5:	e8 36 fc ff ff       	call   1120 <free@plt>
+    14ea:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    14ee:	48 89 c7             	mov    %rax,%rdi
+    14f1:	e8 c3 03 00 00       	call   18b9 <list_remove>
+    14f6:	90                   	nop
+    14f7:	c9                   	leave
+    14f8:	c3                   	ret
+
+00000000000014f9 <delete>:
+    14f9:	f3 0f 1e fa          	endbr64
+    14fd:	55                   	push   %rbp
+    14fe:	48 89 e5             	mov    %rsp,%rbp
+    1501:	48 83 ec 20          	sub    $0x20,%rsp
+    1505:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    1509:	48 89 75 e0          	mov    %rsi,-0x20(%rbp)
+    150d:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    1511:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1515:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1519:	48 8b 00             	mov    (%rax),%rax
+    151c:	48 89 c7             	mov    %rax,%rdi
+    151f:	e8 fc fb ff ff       	call   1120 <free@plt>
+    1524:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1528:	48 89 c7             	mov    %rax,%rdi
+    152b:	e8 f0 fb ff ff       	call   1120 <free@plt>
+    1530:	90                   	nop
+    1531:	c9                   	leave
+    1532:	c3                   	ret
+
+0000000000001533 <user_delete_queue>:
+    1533:	f3 0f 1e fa          	endbr64
+    1537:	55                   	push   %rbp
+    1538:	48 89 e5             	mov    %rsp,%rbp
+    153b:	48 8b 05 0e 2b 00 00 	mov    0x2b0e(%rip),%rax        # 4050 <queue>
+    1542:	48 8d 0d b0 ff ff ff 	lea    -0x50(%rip),%rcx        # 14f9 <delete>
+    1549:	ba 00 00 00 00       	mov    $0x0,%edx
+    154e:	48 89 ce             	mov    %rcx,%rsi
+    1551:	48 89 c7             	mov    %rax,%rdi
+    1554:	e8 a4 03 00 00       	call   18fd <list_foreach>
+    1559:	90                   	nop
+    155a:	5d                   	pop    %rbp
+    155b:	c3                   	ret
+
+000000000000155c <print>:
+    155c:	f3 0f 1e fa          	endbr64
+    1560:	55                   	push   %rbp
+    1561:	48 89 e5             	mov    %rsp,%rbp
+    1564:	48 83 ec 20          	sub    $0x20,%rsp
+    1568:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    156c:	48 89 75 e0          	mov    %rsi,-0x20(%rbp)
+    1570:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    1574:	48 89 45 f0          	mov    %rax,-0x10(%rbp)
+    1578:	48 8b 45 e0          	mov    -0x20(%rbp),%rax
+    157c:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1580:	48 8b 45 f0          	mov    -0x10(%rbp),%rax
+    1584:	48 8b 10             	mov    (%rax),%rdx
+    1587:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    158b:	8b 00                	mov    (%rax),%eax
+    158d:	8d 70 01             	lea    0x1(%rax),%esi
+    1590:	48 8b 4d f8          	mov    -0x8(%rbp),%rcx
+    1594:	89 31                	mov    %esi,(%rcx)
+    1596:	48 8d 0d 7a 0a 00 00 	lea    0xa7a(%rip),%rcx        # 2017 <_IO_stdin_used+0x17>
+    159d:	89 c6                	mov    %eax,%esi
+    159f:	48 89 cf             	mov    %rcx,%rdi
+    15a2:	b8 00 00 00 00       	mov    $0x0,%eax
+    15a7:	e8 d4 fb ff ff       	call   1180 <printf@plt>
+    15ac:	90                   	nop
+    15ad:	c9                   	leave
+    15ae:	c3                   	ret
+
+00000000000015af <user_print>:
+    15af:	f3 0f 1e fa          	endbr64
+    15b3:	55                   	push   %rbp
+    15b4:	48 89 e5             	mov    %rsp,%rbp
+    15b7:	48 83 ec 10          	sub    $0x10,%rsp
+    15bb:	64 48 8b 04 25 28 00 	mov    %fs:0x28,%rax
+    15c2:	00 00 
+    15c4:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    15c8:	31 c0                	xor    %eax,%eax
+    15ca:	c7 45 f4 00 00 00 00 	movl   $0x0,-0xc(%rbp)
+    15d1:	48 8b 05 78 2a 00 00 	mov    0x2a78(%rip),%rax        # 4050 <queue>
+    15d8:	48 8d 55 f4          	lea    -0xc(%rbp),%rdx
+    15dc:	48 8d 0d 79 ff ff ff 	lea    -0x87(%rip),%rcx        # 155c <print>
+    15e3:	48 89 ce             	mov    %rcx,%rsi
+    15e6:	48 89 c7             	mov    %rax,%rdi
+    15e9:	e8 0f 03 00 00       	call   18fd <list_foreach>
+    15ee:	90                   	nop
+    15ef:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    15f3:	64 48 2b 04 25 28 00 	sub    %fs:0x28,%rax
+    15fa:	00 00 
+    15fc:	74 05                	je     1603 <user_print+0x54>
+    15fe:	e8 6d fb ff ff       	call   1170 <__stack_chk_fail@plt>
+    1603:	c9                   	leave
+    1604:	c3                   	ret
+
+0000000000001605 <help>:
+    1605:	f3 0f 1e fa          	endbr64
+    1609:	55                   	push   %rbp
+    160a:	48 89 e5             	mov    %rsp,%rbp
+    160d:	48 8d 05 0c 0a 00 00 	lea    0xa0c(%rip),%rax        # 2020 <_IO_stdin_used+0x20>
+    1614:	48 89 c7             	mov    %rax,%rdi
+    1617:	e8 34 fb ff ff       	call   1150 <puts@plt>
+    161c:	90                   	nop
+    161d:	5d                   	pop    %rbp
+    161e:	c3                   	ret
+
+000000000000161f <main>:
+    161f:	f3 0f 1e fa          	endbr64
+    1623:	55                   	push   %rbp
+    1624:	48 89 e5             	mov    %rsp,%rbp
+    1627:	48 83 c4 80          	add    $0xffffffffffffff80,%rsp
+    162b:	64 48 8b 04 25 28 00 	mov    %fs:0x28,%rax
+    1632:	00 00 
+    1634:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1638:	31 c0                	xor    %eax,%eax
+    163a:	e8 b8 01 00 00       	call   17f7 <list_create>
+    163f:	48 89 05 0a 2a 00 00 	mov    %rax,0x2a0a(%rip)        # 4050 <queue>
+    1646:	48 8b 05 d3 29 00 00 	mov    0x29d3(%rip),%rax        # 4020 <stdout@GLIBC_2.2.5>
+    164d:	48 8d 3d c4 0a 00 00 	lea    0xac4(%rip),%rdi        # 2118 <_IO_stdin_used+0x118>
+    1654:	48 89 c1             	mov    %rax,%rcx
+    1657:	ba 02 00 00 00       	mov    $0x2,%edx
+    165c:	be 01 00 00 00       	mov    $0x1,%esi
+    1661:	e8 8a fb ff ff       	call   11f0 <fwrite@plt>
+    1666:	48 8b 15 c3 29 00 00 	mov    0x29c3(%rip),%rdx        # 4030 <stdin@GLIBC_2.2.5>
+    166d:	48 8d 45 90          	lea    -0x70(%rbp),%rax
+    1671:	be 64 00 00 00       	mov    $0x64,%esi
+    1676:	48 89 c7             	mov    %rax,%rdi
+    1679:	e8 12 fb ff ff       	call   1190 <fgets@plt>
+    167e:	48 85 c0             	test   %rax,%rax
+    1681:	75 0a                	jne    168d <main+0x6e>
+    1683:	b8 01 00 00 00       	mov    $0x1,%eax
+    1688:	e9 29 01 00 00       	jmp    17b6 <main+0x197>
+    168d:	48 8d 15 87 0a 00 00 	lea    0xa87(%rip),%rdx        # 211b <_IO_stdin_used+0x11b>
+    1694:	48 8d 45 90          	lea    -0x70(%rbp),%rax
+    1698:	48 89 d6             	mov    %rdx,%rsi
+    169b:	48 89 c7             	mov    %rax,%rdi
+    169e:	e8 2d fb ff ff       	call   11d0 <strtok@plt>
+    16a3:	48 89 45 80          	mov    %rax,-0x80(%rbp)
+    16a7:	48 83 7d 80 00       	cmpq   $0x0,-0x80(%rbp)
+    16ac:	0f 84 fe 00 00 00    	je     17b0 <main+0x191>
+    16b2:	48 8d 05 62 0a 00 00 	lea    0xa62(%rip),%rax        # 211b <_IO_stdin_used+0x11b>
+    16b9:	48 89 c6             	mov    %rax,%rsi
+    16bc:	bf 00 00 00 00       	mov    $0x0,%edi
+    16c1:	e8 0a fb ff ff       	call   11d0 <strtok@plt>
+    16c6:	48 89 45 88          	mov    %rax,-0x78(%rbp)
+    16ca:	48 8b 45 80          	mov    -0x80(%rbp),%rax
+    16ce:	0f b6 00             	movzbl (%rax),%eax
+    16d1:	0f be c0             	movsbl %al,%eax
+    16d4:	89 c7                	mov    %eax,%edi
+    16d6:	e8 65 fa ff ff       	call   1140 <toupper@plt>
+    16db:	83 f8 73             	cmp    $0x73,%eax
+    16de:	74 50                	je     1730 <main+0x111>
+    16e0:	83 f8 73             	cmp    $0x73,%eax
+    16e3:	0f 8f 5d ff ff ff    	jg     1646 <main+0x27>
+    16e9:	83 f8 53             	cmp    $0x53,%eax
+    16ec:	74 42                	je     1730 <main+0x111>
+    16ee:	83 f8 53             	cmp    $0x53,%eax
+    16f1:	0f 8f 4f ff ff ff    	jg     1646 <main+0x27>
+    16f7:	83 f8 4e             	cmp    $0x4e,%eax
+    16fa:	74 47                	je     1743 <main+0x124>
+    16fc:	83 f8 4e             	cmp    $0x4e,%eax
+    16ff:	0f 8f 41 ff ff ff    	jg     1646 <main+0x27>
+    1705:	83 f8 4c             	cmp    $0x4c,%eax
+    1708:	74 55                	je     175f <main+0x140>
+    170a:	83 f8 4c             	cmp    $0x4c,%eax
+    170d:	0f 8f 33 ff ff ff    	jg     1646 <main+0x27>
+    1713:	83 f8 48             	cmp    $0x48,%eax
+    1716:	74 24                	je     173c <main+0x11d>
+    1718:	83 f8 48             	cmp    $0x48,%eax
+    171b:	0f 8f 25 ff ff ff    	jg     1646 <main+0x27>
+    1721:	83 f8 41             	cmp    $0x41,%eax
+    1724:	74 40                	je     1766 <main+0x147>
+    1726:	83 f8 44             	cmp    $0x44,%eax
+    1729:	74 26                	je     1751 <main+0x132>
+    172b:	e9 81 00 00 00       	jmp    17b1 <main+0x192>
+    1730:	e8 fe fd ff ff       	call   1533 <user_delete_queue>
+    1735:	b8 01 00 00 00       	mov    $0x1,%eax
+    173a:	eb 7a                	jmp    17b6 <main+0x197>
+    173c:	e8 c4 fe ff ff       	call   1605 <help>
+    1741:	eb 6e                	jmp    17b1 <main+0x192>
+    1743:	48 8b 45 88          	mov    -0x78(%rbp),%rax
+    1747:	48 89 c7             	mov    %rax,%rdi
+    174a:	e8 9a fb ff ff       	call   12e9 <user_insert>
+    174f:	eb 60                	jmp    17b1 <main+0x192>
+    1751:	48 8b 45 88          	mov    -0x78(%rbp),%rax
+    1755:	48 89 c7             	mov    %rax,%rdi
+    1758:	e8 2a fd ff ff       	call   1487 <user_remove>
+    175d:	eb 52                	jmp    17b1 <main+0x192>
+    175f:	e8 4b fe ff ff       	call   15af <user_print>
+    1764:	eb 4b                	jmp    17b1 <main+0x192>
+    1766:	e8 66 fc ff ff       	call   13d1 <user_answer>
+    176b:	48 89 45 88          	mov    %rax,-0x78(%rbp)
+    176f:	48 83 7d 88 00       	cmpq   $0x0,-0x78(%rbp)
+    1774:	75 11                	jne    1787 <main+0x168>
+    1776:	48 8d 05 a1 09 00 00 	lea    0x9a1(%rip),%rax        # 211e <_IO_stdin_used+0x11e>
+    177d:	48 89 c7             	mov    %rax,%rdi
+    1780:	e8 cb f9 ff ff       	call   1150 <puts@plt>
+    1785:	eb 2a                	jmp    17b1 <main+0x192>
+    1787:	48 8b 45 88          	mov    -0x78(%rbp),%rax
+    178b:	48 8d 15 97 09 00 00 	lea    0x997(%rip),%rdx        # 2129 <_IO_stdin_used+0x129>
+    1792:	48 89 c6             	mov    %rax,%rsi
+    1795:	48 89 d7             	mov    %rdx,%rdi
+    1798:	b8 00 00 00 00       	mov    $0x0,%eax
+    179d:	e8 de f9 ff ff       	call   1180 <printf@plt>
+    17a2:	48 8b 45 88          	mov    -0x78(%rbp),%rax
+    17a6:	48 89 c7             	mov    %rax,%rdi
+    17a9:	e8 72 f9 ff ff       	call   1120 <free@plt>
+    17ae:	eb 01                	jmp    17b1 <main+0x192>
+    17b0:	90                   	nop
+    17b1:	e9 90 fe ff ff       	jmp    1646 <main+0x27>
+    17b6:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    17ba:	64 48 2b 14 25 28 00 	sub    %fs:0x28,%rdx
+    17c1:	00 00 
+    17c3:	74 05                	je     17ca <main+0x1ab>
+    17c5:	e8 a6 f9 ff ff       	call   1170 <__stack_chk_fail@plt>
+    17ca:	c9                   	leave
+    17cb:	c3                   	ret
+
+00000000000017cc <list_get_data>:
+    17cc:	f3 0f 1e fa          	endbr64
+    17d0:	55                   	push   %rbp
+    17d1:	48 89 e5             	mov    %rsp,%rbp
+    17d4:	48 89 7d f8          	mov    %rdi,-0x8(%rbp)
+    17d8:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    17dc:	48 8b 40 10          	mov    0x10(%rax),%rax
+    17e0:	5d                   	pop    %rbp
+    17e1:	c3                   	ret
+
+00000000000017e2 <list_get_next>:
+    17e2:	f3 0f 1e fa          	endbr64
+    17e6:	55                   	push   %rbp
+    17e7:	48 89 e5             	mov    %rsp,%rbp
+    17ea:	48 89 7d f8          	mov    %rdi,-0x8(%rbp)
+    17ee:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    17f2:	48 8b 00             	mov    (%rax),%rax
+    17f5:	5d                   	pop    %rbp
+    17f6:	c3                   	ret
+
+00000000000017f7 <list_create>:
+    17f7:	f3 0f 1e fa          	endbr64
+    17fb:	55                   	push   %rbp
+    17fc:	48 89 e5             	mov    %rsp,%rbp
+    17ff:	48 83 ec 10          	sub    $0x10,%rsp
+    1803:	bf 18 00 00 00       	mov    $0x18,%edi
+    1808:	e8 b3 f9 ff ff       	call   11c0 <malloc@plt>
+    180d:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1811:	48 83 7d f8 00       	cmpq   $0x0,-0x8(%rbp)
+    1816:	75 07                	jne    181f <list_create+0x28>
+    1818:	b8 00 00 00 00       	mov    $0x0,%eax
+    181d:	eb 22                	jmp    1841 <list_create+0x4a>
+    181f:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1823:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    1827:	48 89 50 08          	mov    %rdx,0x8(%rax)
+    182b:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    182f:	48 8b 50 08          	mov    0x8(%rax),%rdx
+    1833:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1837:	48 89 10             	mov    %rdx,(%rax)
+    183a:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    183e:	48 8b 00             	mov    (%rax),%rax
+    1841:	c9                   	leave
+    1842:	c3                   	ret
+
+0000000000001843 <list_insert_next>:
+    1843:	f3 0f 1e fa          	endbr64
+    1847:	55                   	push   %rbp
+    1848:	48 89 e5             	mov    %rsp,%rbp
+    184b:	48 83 ec 20          	sub    $0x20,%rsp
+    184f:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    1853:	48 89 75 e0          	mov    %rsi,-0x20(%rbp)
+    1857:	bf 18 00 00 00       	mov    $0x18,%edi
+    185c:	e8 5f f9 ff ff       	call   11c0 <malloc@plt>
+    1861:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1865:	48 83 7d f8 00       	cmpq   $0x0,-0x8(%rbp)
+    186a:	75 07                	jne    1873 <list_insert_next+0x30>
+    186c:	b8 00 00 00 00       	mov    $0x0,%eax
+    1871:	eb 44                	jmp    18b7 <list_insert_next+0x74>
+    1873:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1877:	48 8b 55 e0          	mov    -0x20(%rbp),%rdx
+    187b:	48 89 50 10          	mov    %rdx,0x10(%rax)
+    187f:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    1883:	48 8b 10             	mov    (%rax),%rdx
+    1886:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    188a:	48 89 10             	mov    %rdx,(%rax)
+    188d:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1891:	48 8b 55 e8          	mov    -0x18(%rbp),%rdx
+    1895:	48 89 50 08          	mov    %rdx,0x8(%rax)
+    1899:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    189d:	48 8b 00             	mov    (%rax),%rax
+    18a0:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    18a4:	48 89 50 08          	mov    %rdx,0x8(%rax)
+    18a8:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    18ac:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    18b0:	48 89 10             	mov    %rdx,(%rax)
+    18b3:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    18b7:	c9                   	leave
+    18b8:	c3                   	ret
+
+00000000000018b9 <list_remove>:
+    18b9:	f3 0f 1e fa          	endbr64
+    18bd:	55                   	push   %rbp
+    18be:	48 89 e5             	mov    %rsp,%rbp
+    18c1:	48 83 ec 10          	sub    $0x10,%rsp
+    18c5:	48 89 7d f8          	mov    %rdi,-0x8(%rbp)
+    18c9:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    18cd:	48 8b 40 08          	mov    0x8(%rax),%rax
+    18d1:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    18d5:	48 8b 12             	mov    (%rdx),%rdx
+    18d8:	48 89 10             	mov    %rdx,(%rax)
+    18db:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    18df:	48 8b 00             	mov    (%rax),%rax
+    18e2:	48 8b 55 f8          	mov    -0x8(%rbp),%rdx
+    18e6:	48 8b 52 08          	mov    0x8(%rdx),%rdx
+    18ea:	48 89 50 08          	mov    %rdx,0x8(%rax)
+    18ee:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    18f2:	48 89 c7             	mov    %rax,%rdi
+    18f5:	e8 26 f8 ff ff       	call   1120 <free@plt>
+    18fa:	90                   	nop
+    18fb:	c9                   	leave
+    18fc:	c3                   	ret
+
+00000000000018fd <list_foreach>:
+    18fd:	f3 0f 1e fa          	endbr64
+    1901:	55                   	push   %rbp
+    1902:	48 89 e5             	mov    %rsp,%rbp
+    1905:	48 83 ec 30          	sub    $0x30,%rsp
+    1909:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    190d:	48 89 75 e0          	mov    %rsi,-0x20(%rbp)
+    1911:	48 89 55 d8          	mov    %rdx,-0x28(%rbp)
+    1915:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    1919:	48 8b 00             	mov    (%rax),%rax
+    191c:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1920:	eb 23                	jmp    1945 <list_foreach+0x48>
+    1922:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1926:	48 8b 40 10          	mov    0x10(%rax),%rax
+    192a:	48 8b 55 d8          	mov    -0x28(%rbp),%rdx
+    192e:	48 8b 4d e0          	mov    -0x20(%rbp),%rcx
+    1932:	48 89 d6             	mov    %rdx,%rsi
+    1935:	48 89 c7             	mov    %rax,%rdi
+    1938:	ff d1                	call   *%rcx
+    193a:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    193e:	48 8b 00             	mov    (%rax),%rax
+    1941:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1945:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    1949:	48 3b 45 e8          	cmp    -0x18(%rbp),%rax
+    194d:	75 d3                	jne    1922 <list_foreach+0x25>
+    194f:	90                   	nop
+    1950:	90                   	nop
+    1951:	c9                   	leave
+    1952:	c3                   	ret
+
+0000000000001953 <list_search>:
+    1953:	f3 0f 1e fa          	endbr64
+    1957:	55                   	push   %rbp
+    1958:	48 89 e5             	mov    %rsp,%rbp
+    195b:	48 83 ec 30          	sub    $0x30,%rsp
+    195f:	48 89 7d e8          	mov    %rdi,-0x18(%rbp)
+    1963:	48 89 75 e0          	mov    %rsi,-0x20(%rbp)
+    1967:	48 89 55 d8          	mov    %rdx,-0x28(%rbp)
+    196b:	48 8b 45 e8          	mov    -0x18(%rbp),%rax
+    196f:	48 8b 00             	mov    (%rax),%rax
+    1972:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    1976:	eb 30                	jmp    19a8 <list_search+0x55>
+    1978:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    197c:	48 8b 40 10          	mov    0x10(%rax),%rax
+    1980:	48 8b 55 d8          	mov    -0x28(%rbp),%rdx
+    1984:	48 8b 4d e0          	mov    -0x20(%rbp),%rcx
+    1988:	48 89 d6             	mov    %rdx,%rsi
+    198b:	48 89 c7             	mov    %rax,%rdi
+    198e:	ff d1                	call   *%rcx
+    1990:	83 f0 01             	xor    $0x1,%eax
+    1993:	84 c0                	test   %al,%al
+    1995:	74 06                	je     199d <list_search+0x4a>
+    1997:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    199b:	eb 1a                	jmp    19b7 <list_search+0x64>
+    199d:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    19a1:	48 8b 00             	mov    (%rax),%rax
+    19a4:	48 89 45 f8          	mov    %rax,-0x8(%rbp)
+    19a8:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    19ac:	48 3b 45 e8          	cmp    -0x18(%rbp),%rax
+    19b0:	75 c6                	jne    1978 <list_search+0x25>
+    19b2:	b8 00 00 00 00       	mov    $0x0,%eax
+    19b7:	c9                   	leave
+    19b8:	c3                   	ret
+
+00000000000019b9 <list_empty>:
+    19b9:	f3 0f 1e fa          	endbr64
+    19bd:	55                   	push   %rbp
+    19be:	48 89 e5             	mov    %rsp,%rbp
+    19c1:	48 89 7d f8          	mov    %rdi,-0x8(%rbp)
+    19c5:	48 8b 45 f8          	mov    -0x8(%rbp),%rax
+    19c9:	48 8b 00             	mov    (%rax),%rax
+    19cc:	48 39 45 f8          	cmp    %rax,-0x8(%rbp)
+    19d0:	0f 94 c0             	sete   %al
+    19d3:	5d                   	pop    %rbp
+    19d4:	c3                   	ret
+
+Disassembly of section .fini:
+
+00000000000019d8 <_fini>:
+    19d8:	f3 0f 1e fa          	endbr64
+    19dc:	48 83 ec 08          	sub    $0x8,%rsp
+    19e0:	48 83 c4 08          	add    $0x8,%rsp
+    19e4:	c3                   	ret
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ./wq[K[K[K[K./a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\> s
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ./a.out [9@objdump -d [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc wqueue3.c liblist.a[Kso
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ .a[K/a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\./a.out: error while loading shared libraries: liblist.so: cannot open shared object file: No such file or directory
+]666;vte.shell.postexec=127\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 188
+-rw-rw-r--+ 1 ezequiel ezequiel    159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel    195 Nov 24 16:25 Makelib
+-rwxrwxr-x  1 ezequiel ezequiel  17264 Nov 24 16:28 [0m[01;32ma.out[0m
+-rw-rw-r--+ 1 ezequiel ezequiel   2854 Nov 24 16:26 liblist.a
+-rwxrwxr-x+ 1 ezequiel ezequiel  15784 Nov 24 16:26 [01;32mliblist.so[0m
+-rw-r--r--+ 1 ezequiel ezequiel   1256 Nov 23 10:53 list.c
+-rw-r--r--+ 1 ezequiel ezequiel    458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel   2584 Nov 24 16:26 list.o
+-rw-rw-r--+ 1 ezequiel ezequiel 122880 Nov 24 16:28 typescript
+-rw-r--r--+ 1 ezequiel ezequiel   2598 Nov 23 17:40 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ./a[K[K[Kexport LD_LIBRARY_PATH=.
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ export LD_LIBRARY_PATH=.[C[C[C[C[C[C[C[C[C[Cls -l[K./a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\> 
+> 
+> 
+> 
+> n a	na
+> n luis
+> n l rui
+> a
+Atender rui
+> a
+Atender luis
+> a
+Atender ana
+> a
+Fila vazia
+> 
+> a
+Fila vazia
+> a
+Fila vazia
+> 
+> s
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ldd a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\	linux-vdso.so.1 (0x0000746ad753e000)
+	liblist.so => ./liblist.so (0x0000746ad752c000)
+	libc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x0000746ad7200000)
+	/lib64/ld-linux-x86-64.so.2 (0x0000746ad7540000)
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ldd a.out [2P./[C[C[C[C[C[Cexport LD_LIBRARY_PATH=.[C[C[C[C[C[C[C[C[C[Cls -l[Kexport LD_LIBRARY_PATH=.[K
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ export LD_LIBRARY_PATH=[C[C[C[C[C[C[C[C[C[C[13Pldd a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\	linux-vdso.so.1 (0x00007e944072c000)
+	liblist.so => not found
+	libc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x00007e9440400000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007e944072e000)
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ldd a.out export LD_LIBRARY_PATH=[C[C[C[C[C[C[C[C[C[C[13Pldd a.out [2P./[C[C[C[C[C[Cexport LD_LIBRARY_PATH=.[C[C[C[C[C[C[C[C[C[Cls -l[K./a.out gcc wqueue3.c liblist.so[K[K[K[K[K[K[K[K[K[K-l list
+[?2004l]133;C\]666;vte.shell.preexec!\/usr/local/bin/ld: cannot find -llist: No such file or directory
+collect2: error: ld returned 1 exit status
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ gcc wqueue3.c -l list -L .
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -[K[K[K[Kldd a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\	linux-vdso.so.1 (0x00007b0b4cac4000)
+	liblist.so => not found
+	libc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x00007b0b4c800000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007b0b4cac6000)
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm liblist.s0[Ko
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm liblist.so[C[C[C[C[C[C[C[C[C[C[3Pldd a.out gcc wqueue3.c -l list -L .
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ gcc wqueue3.c -l list -L .[C[C[C[C[C[C[C[C[C[C[13Prm liblist.so[C[C[C[C[C[C[C[C[C[C[3Pldd a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\	linux-vdso.so.1 (0x00007fd045e3d000)
+	libc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x00007fd045a00000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007fd045e3f000)
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls[K[Kldd a.out gcc wqueue3.c -l list -L .
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makelib 
+[?2004l]133;C\]666;vte.shell.preexec!\gcc -shared list.o -o liblist.so
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makelib [C[C[C[C[C[C[C[C[C[Cgcc wqueue3.c -l list -L .
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ gcc wqueue3.c -l list -L .[C[C[C[C[C[C[C[C[C[C[10Pmake -f Makelib [C[C[C[C[C[C[C[C[C[Cgcc wqueue3.c -l list -L .[C[C[C[C[C[C[C[C[C[C[16Pldd a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\	linux-vdso.so.1 (0x000076ec739f7000)
+	liblist.so => not found
+	libc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x000076ec73600000)
+	/lib64/ld-linux-x86-64.so.2 (0x000076ec739f9000)
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ldd a.out gcc wqueue3.c -l list -L .[C[C[C[C[C[C[C[C[C[C[10Pmake -f Makelib [C[C[C[C[C[C[C[C[C[Cgcc wqueue3.c -l list -L .
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ gcc wqueue3.c -l list -L .[C[C[C[C[C[C[C[C[C[C[16Pldd a.out gcc wqueue3.c -l list -L .[C[C[C[C[C[C[C[C[C[C[10Pmake -f Makelib [C[C[C[C[C[C[C[C[C[Cgcc wqueue3.c -l list -L .[C[C[C[C[C[C[C[C[C[C[16Pldd a.out gcc wqueue3.c -l list -L .[C[C[C[C[C[C[C[C[C[C[13Prm liblist.so[C[C[C[C[C[C[C[C[C[C[3Pldd a.out gcc wqueue3.c -l list -L .[K[C[C[C[C[C[C[C[C[C[C[11Pldd a.out [K[K[K[K[K[K[K[K[K[Kexport LD_LIBRATY[K[KRY_PATH=.
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ export LD_LIBRARY_PATH=.[C[C[C[C[C[C[C[C[C[C[2@gcc wqueue3.c -l list -L [C[C[C[C[C[C[C[C[C[C[C[16Pldd a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\	linux-vdso.so.1 (0x00007cb1becee000)
+	liblist.so => ./liblist.so (0x00007cb1becdc000)
+	libc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x00007cb1bea00000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007cb1becf0000)
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ./a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\> exit
+> exit
+> s
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ./a.out [2@ldd [C[C[C[C[C[Cexport LD_LIBRARY_PATH=.[C[C[C[C[C[C[C[C[C[C[2@gcc wqueue3.c -l list -L [C[C[C[C[C[C[C[C[C[C[C[16Pldd a.out gcc wqueue3.c -l list -L .[C[C[C[C[C[C[C[C[C[C[10Pmake -f Makelib 
+[?2004l]133;C\]666;vte.shell.preexec!\gcc list.c -c
+ar cr liblist.a list.o
+gcc -shared list.o -o liblist.so
+/usr/local/bin/ld: list.o: warning: relocation against `counter' in read-only section `.text'
+/usr/local/bin/ld: list.o: relocation R_X86_64_PC32 against symbol `counter' can not be used when making a shared object; recompile with -fPIC
+/usr/local/bin/ld: final link failed: bad value
+collect2: error: ld returned 1 exit status
+make: *** [Makelib:7: liblist.so] Error 1
+]666;vte.shell.postexec=2\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ^C[?2004l[?2004h[?2004l
+]666;vte.shell.postexec=130\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makelib [C[C[C[C[C[C[C[C[C[C[8P./a.out make -f Makelib 
+[?2004l]133;C\]666;vte.shell.preexec!\gcc list.c -c -fPIC -o list_pic.o
+gcc -shared list_pic.o -o liblist.so
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makelib [C[C[C[C[C[C[C[C[C[C[8P./a.out [2@ldd [C[C[C[C[C[Cexport LD_LIBRARY_PATH=.[C[C[C[C[C[C[C[C[C[C[2@gcc wqueue3.c -l list -L [C
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls q[Kwqueue3.c [K[K[K[K[K[K[K[K[K[K[K[Kdd w[Ka.out 
+[?2004l]133;C\]666;vte.shell.preexec!\	linux-vdso.so.1 (0x00007ee29cfab000)
+	liblist.so => ./liblist.so (0x00007ee29cf99000)
+	libc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x00007ee29cc00000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007ee29cfad000)
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ./a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\counter = 0
+counter = 1
+> s
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ./a.out [2@ldd [C[C[C[C[C[Cgcc wqueue3.c -l list -L .[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmake -f Makefile2
+[?2004l]133;C\]666;vte.shell.preexec!\gcc wqueue3.c -c
+gcc wqueue3.o -l list -L . -o wqueue3
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ make -f Makefile2
+[?2004l]133;C\]666;vte.shell.preexec!\make: 'wqueue3' is up to date.
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ld[K[Kmake -f Makefile2[C[C[C[C[C[C[C[C[C[C[9P./a.out make -f Makefile2 clean
+[?2004l]133;C\]666;vte.shell.preexec!\rm -rf *.o wqueue3
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 216
+drwxrwxr-x+  2 ezequiel ezequiel   4096 Nov 24 16:47 [0m[01;34m.[0m
+drwxrwxr-x+ 19 ezequiel ezequiel   4096 Nov 24 16:04 [01;34m..[0m
+-rw-rw-r--+  1 ezequiel ezequiel    159 Nov 23 17:51 Makefile
+-rw-rw-r--+  1 ezequiel ezequiel    127 Nov 24 16:47 Makefile2
+-rw-rw-r--+  1 ezequiel ezequiel    258 Nov 24 16:44 Makelib
+-rwxrwxr-x+  1 ezequiel ezequiel  17296 Nov 24 16:45 [01;32ma.out[0m
+-rw-rw-r--+  1 ezequiel ezequiel   2962 Nov 24 16:41 liblist.a
+-rwxrwxr-x+  1 ezequiel ezequiel  15816 Nov 24 16:45 [01;32mliblist.so[0m
+-rw-r--r--+  1 ezequiel ezequiel   1286 Nov 24 16:39 list.c
+-rw-r--r--+  1 ezequiel ezequiel    458 Nov 23 10:38 list.h
+-rw-rw-r--+  1 ezequiel ezequiel 143360 Nov 24 16:47 typescript
+-rw-r--r--+  1 ezequiel ezequiel   2691 Nov 24 16:41 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -almake -f Makefile2 clean[K
+[?2004l]133;C\]666;vte.shell.preexec!\gcc wqueue3.c -c
+gcc wqueue3.o -l list -L . -o wqueue3
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 244
+drwxrwxr-x+  2 ezequiel ezequiel   4096 Nov 24 16:47 [0m[01;34m.[0m
+drwxrwxr-x+ 19 ezequiel ezequiel   4096 Nov 24 16:04 [01;34m..[0m
+-rw-rw-r--+  1 ezequiel ezequiel    159 Nov 23 17:51 Makefile
+-rw-rw-r--+  1 ezequiel ezequiel    127 Nov 24 16:47 Makefile2
+-rw-rw-r--+  1 ezequiel ezequiel    258 Nov 24 16:44 Makelib
+-rwxrwxr-x+  1 ezequiel ezequiel  17296 Nov 24 16:45 [01;32ma.out[0m
+-rw-rw-r--+  1 ezequiel ezequiel   2962 Nov 24 16:41 liblist.a
+-rwxrwxr-x+  1 ezequiel ezequiel  15816 Nov 24 16:45 [01;32mliblist.so[0m
+-rw-r--r--+  1 ezequiel ezequiel   1286 Nov 24 16:39 list.c
+-rw-r--r--+  1 ezequiel ezequiel    458 Nov 23 10:38 list.h
+-rw-rw-r--+  1 ezequiel ezequiel 143360 Nov 24 16:47 typescript
+-rwxrwxr-x+  1 ezequiel ezequiel  17296 Nov 24 16:47 [01;32mwqueue3[0m
+-rw-r--r--+  1 ezequiel ezequiel   2691 Nov 24 16:41 wqueue3.c
+-rw-rw-r--+  1 ezequiel ezequiel   6488 Nov 24 16:47 wqueue3.o
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ./wqueue3 
+[?2004l]133;C\]666;vte.shell.preexec!\counter = 0
+counter = 1
+> s
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 248
+drwxrwxr-x+  2 ezequiel ezequiel   4096 Nov 24 16:47 [0m[01;34m.[0m
+drwxrwxr-x+ 19 ezequiel ezequiel   4096 Nov 24 16:04 [01;34m..[0m
+-rw-rw-r--+  1 ezequiel ezequiel    159 Nov 23 17:51 Makefile
+-rw-rw-r--+  1 ezequiel ezequiel    127 Nov 24 16:47 Makefile2
+-rw-rw-r--+  1 ezequiel ezequiel    258 Nov 24 16:44 Makelib
+-rwxrwxr-x+  1 ezequiel ezequiel  17296 Nov 24 16:45 [01;32ma.out[0m
+-rw-rw-r--+  1 ezequiel ezequiel   2962 Nov 24 16:41 liblist.a
+-rwxrwxr-x+  1 ezequiel ezequiel  15816 Nov 24 16:45 [01;32mliblist.so[0m
+-rw-r--r--+  1 ezequiel ezequiel   1286 Nov 24 16:39 list.c
+-rw-r--r--+  1 ezequiel ezequiel    458 Nov 23 10:38 list.h
+-rw-rw-r--+  1 ezequiel ezequiel 147456 Nov 24 16:47 typescript
+-rwxrwxr-x+  1 ezequiel ezequiel  17296 Nov 24 16:47 [01;32mwqueue3[0m
+-rw-r--r--+  1 ezequiel ezequiel   2691 Nov 24 16:41 wqueue3.c
+-rw-rw-r--+  1 ezequiel ezequiel   6488 Nov 24 16:47 wqueue3.o
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm a.out 
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -[K[K[K[Krm a.out [3Pls -al./wqueue3 [4Pls -almake -f Makefile2 clean
+[?2004l]133;C\]666;vte.shell.preexec!\rm -rf *.o wqueue3
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 200
+drwxrwxr-x+  2 ezequiel ezequiel   4096 Nov 24 16:48 [0m[01;34m.[0m
+drwxrwxr-x+ 19 ezequiel ezequiel   4096 Nov 24 16:04 [01;34m..[0m
+-rw-rw-r--+  1 ezequiel ezequiel    159 Nov 23 17:51 Makefile
+-rw-rw-r--+  1 ezequiel ezequiel    127 Nov 24 16:47 Makefile2
+-rw-rw-r--+  1 ezequiel ezequiel    258 Nov 24 16:44 Makelib
+-rw-rw-r--+  1 ezequiel ezequiel   2962 Nov 24 16:41 liblist.a
+-rwxrwxr-x+  1 ezequiel ezequiel  15816 Nov 24 16:45 [01;32mliblist.so[0m
+-rw-r--r--+  1 ezequiel ezequiel   1286 Nov 24 16:39 list.c
+-rw-r--r--+  1 ezequiel ezequiel    458 Nov 23 10:38 list.h
+-rw-rw-r--+  1 ezequiel ezequiel 147456 Nov 24 16:47 typescript
+-rw-r--r--+  1 ezequiel ezequiel   2691 Nov 24 16:41 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm liblist.so
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ rm liblist.so[C[C[C[C[C[C[C[C[C[C[7Pls -almake -f Makefile2 clean[K[K[K[K[K[K[K[K[K[K[Klib clean 
+[?2004l]133;C\]666;vte.shell.preexec!\rm -rf *.o liblist.a liblist.so
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -al
+[?2004l]133;C\]666;vte.shell.preexec!\total 184
+drwxrwxr-x+  2 ezequiel ezequiel   4096 Nov 24 16:49 [0m[01;34m.[0m
+drwxrwxr-x+ 19 ezequiel ezequiel   4096 Nov 24 16:04 [01;34m..[0m
+-rw-rw-r--+  1 ezequiel ezequiel    159 Nov 23 17:51 Makefile
+-rw-rw-r--+  1 ezequiel ezequiel    127 Nov 24 16:47 Makefile2
+-rw-rw-r--+  1 ezequiel ezequiel    258 Nov 24 16:44 Makelib
+-rw-r--r--+  1 ezequiel ezequiel   1286 Nov 24 16:39 list.c
+-rw-r--r--+  1 ezequiel ezequiel    458 Nov 23 10:38 list.h
+-rw-rw-r--+  1 ezequiel ezequiel 151552 Nov 24 16:48 typescript
+-rw-r--r--+  1 ezequiel ezequiel   2691 Nov 24 16:41 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ pwd
+[?2004l]133;C\]666;vte.shell.preexec!\/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 176
+-rw-rw-r--+ 1 ezequiel ezequiel    159 Nov 23 17:51 Makefile
+-rw-rw-r--+ 1 ezequiel ezequiel    127 Nov 24 16:47 Makefile2
+-rw-rw-r--+ 1 ezequiel ezequiel    258 Nov 24 16:44 Makelib
+-rw-r--r--+ 1 ezequiel ezequiel   1286 Nov 24 16:39 list.c
+-rw-r--r--+ 1 ezequiel ezequiel    458 Nov 23 10:38 list.h
+-rw-rw-r--+ 1 ezequiel ezequiel 151552 Nov 24 16:48 typescript
+-rw-r--r--+ 1 ezequiel ezequiel   2691 Nov 24 16:41 wqueue3.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ cd ../2611
+261102_assembly/ 261110_+6args/   261123_linking/  
+261103_generic/  261116_list/     261124_lib/      
+261109_stack/    261117_list/     261124_wave/     
+]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_lib[01;32mezequiel[00m$ cd ../2611234[K[K4_wave/
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 12
+-rw-rw-r--+ 1 ezequiel ezequiel  42 Nov 24 16:58 main-c
+-rw-rw-r--+ 1 ezequiel ezequiel  42 Nov 24 16:58 main.c
+-rw-rw-r--+ 1 ezequiel ezequiel 351 Nov 24 17:08 wave_test.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ rm main*
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ cpp [K[K ~/Dropbox/disciplinas/psc/2627inv/tp2/wave/tom_8_8.wav .
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 12
+-rw-------  1 ezequiel ezequiel 7970 Nov 24 17:09 [0m[36mtom_8_8.wav[0m
+-rw-rw-r--+ 1 ezequiel ezequiel  351 Nov 24 17:08 wave_test.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ gcc wave_test.c -o wave_test.c [K[K[K
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ ls -l
+[?2004l]133;C\]666;vte.shell.preexec!\total 28
+-rw-------+ 1 ezequiel ezequiel  7970 Nov 24 17:09 [0m[36mtom_8_8.wav[0m
+-rwxrwxr-x+ 1 ezequiel ezequiel 16136 Nov 24 17:09 [01;32mwave_test[0m
+-rw-rw-r--+ 1 ezequiel ezequiel   351 Nov 24 17:08 wave_test.c
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ ./wave_test tom_8_8.wav 
+[?2004l]133;C\]666;vte.shell.preexec!\File format is a WAVE
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ ./wave_test tom_8_8.wav [C[C[C[C[C[C[C[C[C[Cls -l[Kgcc wave_test.c -o wave_test
+[?2004l]133;C\]666;vte.shell.preexec!\[01m[Kwave_test.c:8:9:[m[K [01;31m[Kerror: [m[Kunknown type name ‘[01m[Kuint32_t[m[K’
+    8 |         [01;31m[Kuint32_t[m[K ChunkSize;
+      |         [01;31m[K^~~~~~~~[m[K
+[01m[Kwave_test.c:3:1:[m[K [01;36m[Knote: [m[K‘[01m[Kuint32_t[m[K’ is defined in header ‘[01m[K<stdint.h>[m[K’; this is probably fixable by adding ‘[01m[K#include <stdint.h>[m[K’
+    2 | #include <string.h>
+  +++ |+[32m[K#include <stdint.h>[m[K
+    3 | 
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ gcc wave_test.c -o wave_test
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ .[Kw[K./wave_test 
+[?2004l]133;C\]666;vte.shell.preexec!\Segmentation fault         (core dumped) ./wave_test
+]666;vte.shell.postexec=139\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ ./wave_test [C[C[C[C[C[C[C[C[C[Cgcc wave_test.c -o wave_test -g
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ insight wave_test
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ insight wave_test[C[C[C[C[C[C[C[C[C[Cgcc wave_test.c -o wave_test -g[C[C[C[C[C[C[C[C[C[C[19P./wave_test  tom_8_8.wav 
+[?2004l]133;C\]666;vte.shell.preexec!\File format is a WAVE
+]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=0\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ ./wave_test  tom_8_8.wav [C[C[C[C[C[C[C[C[C[C[8Pinsight wave_test[C[C[C[C[C[C[C[C[C[Cgcc wave_test.c -o wave_test -g~
+[?2004l]133;C\]666;vte.shell.preexec!\[01m[Kgcc:[m[K [01;31m[Kerror: [m[Kunrecognized debug output level ‘[01m[K~[m[K’
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ gcc wave_test.c -o wave_test -g~[K
+[?2004l]133;C\]666;vte.shell.preexec!\[01m[Kwave_test.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Kwave_test.c:35:17:[m[K [01;31m[Kerror: [m[Kimplicit declaration of function ‘[01m[Kexit[m[K’ [[01;31m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-15.2.0/gcc/Warning-Options.html#index-Wimplicit-function-declaration-Wimplicit-function-declaration]8;;[m[K]
+   35 |                 [01;31m[Kexit[m[K(EXIT_FAILURE);
+      |                 [01;31m[K^~~~[m[K
+[01m[Kwave_test.c:4:1:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<stdlib.h>[m[K’ or provide a declaration of ‘[01m[Kexit[m[K’
+    3 | #include <stdint.h>
+  +++ |+[32m[K#include <stdlib.h>[m[K
+    4 | 
+[01m[Kwave_test.c:35:17:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function ‘[01m[Kexit[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-15.2.0/gcc/Warning-Options.html#index-Wbuiltin-declaration-mismatch-Wbuiltin-declaration-mismatch]8;;[m[K]
+   35 |                 [01;35m[Kexit[m[K(EXIT_FAILURE);
+      |                 [01;35m[K^~~~[m[K
+[01m[Kwave_test.c:35:17:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<stdlib.h>[m[K’ or provide a declaration of ‘[01m[Kexit[m[K’
+[01m[Kwave_test.c:35:22:[m[K [01;31m[Kerror: [m[K‘[01m[KEXIT_FAILURE[m[K’ undeclared (first use in this function)
+   35 |                 exit([01;31m[KEXIT_FAILURE[m[K);
+      |                      [01;31m[K^~~~~~~~~~~~[m[K
+[01m[Kwave_test.c:35:22:[m[K [01;36m[Knote: [m[K‘[01m[KEXIT_FAILURE[m[K’ is defined in header ‘[01m[K<stdlib.h>[m[K’; this is probably fixable by adding ‘[01m[K#include <stdlib.h>[m[K’
+[01m[Kwave_test.c:35:22:[m[K [01;36m[Knote: [m[Keach undeclared identifier is reported only once for each function it appears in
+[01m[Kwave_test.c:39:16:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Knbytes[m[K’
+   39 |         size_t [01;31m[Knbytes[m[K = fread(&subChunk1, 1, sizeof subChunk1, fd);
+      |                [01;31m[K^~~~~~[m[K
+[01m[Kwave_test.c:31:16:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Knbytes[m[K’ with type ‘[01m[Ksize_t[m[K’ {aka [m[K‘[01m[Klong unsigned int[m[K’}
+   31 |         size_t [01;36m[Knbytes[m[K = fread(&chunk, 1, sizeof chunk, fd);
+      |                [01;36m[K^~~~~~[m[K
+[01m[Kwave_test.c:42:36:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K[01;32m[K%s[m[K[m[K’ expects argument of type ‘[01m[K[01;32m[Kchar *[m[K[m[K’, but argument 2 has type ‘[01m[K[01;34m[Kint[m[K[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-15.2.0/gcc/Warning-Options.html#index-Wformat-Wformat=]8;;[m[K]
+   42 |         printf("Bits per sample = [01;32m[K%[m[K[01;32m[Ks[m[K\n", [01;34m[Ks[m[K[01;34m[Ku[m[K[01;34m[Kb[m[K[01;34m[KC[m[K[01;34m[Kh[m[K[01;34m[Ku[m[K[01;34m[Kn[m[K[01;34m[Kk[m[K[01;34m[K1[m[K[01;34m[K.[m[K[01;34m[KB[m[K[01;34m[Ki[m[K[01;34m[Kt[m[K[01;34m[Ks[m[K[01;34m[KP[m[K[01;34m[Ke[m[K[01;34m[Kr[m[K[01;34m[KS[m[K[01;34m[Ka[m[K[01;34m[Km[m[K[01;34m[Kp[m[K[01;34m[Kl[m[K[01;34m[Ke[m[K);
+      |                                   [01;32m[K~[m[K[01;32m[K^[m[K     [01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K[01;34m[K~[m[K
+      |                                    [01;32m[K|[m[K              [01;34m[K|[m[K
+      |                                    [01;32m[Kchar *[m[K         [01;34m[Kint[m[K
+      |                                   [32m[K%d[m[K
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ gcc wave_test.c -o wave_test -g
+[?2004l]133;C\]666;vte.shell.preexec!\[01m[Kwave_test.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Kwave_test.c:35:17:[m[K [01;31m[Kerror: [m[Kimplicit declaration of function ‘[01m[Kexit[m[K’ [[01;31m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-15.2.0/gcc/Warning-Options.html#index-Wimplicit-function-declaration-Wimplicit-function-declaration]8;;[m[K]
+   35 |                 [01;31m[Kexit[m[K(EXIT_FAILURE);
+      |                 [01;31m[K^~~~[m[K
+[01m[Kwave_test.c:4:1:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<stdlib.h>[m[K’ or provide a declaration of ‘[01m[Kexit[m[K’
+    3 | #include <stdint.h>
+  +++ |+[32m[K#include <stdlib.h>[m[K
+    4 | 
+[01m[Kwave_test.c:35:17:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function ‘[01m[Kexit[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-15.2.0/gcc/Warning-Options.html#index-Wbuiltin-declaration-mismatch-Wbuiltin-declaration-mismatch]8;;[m[K]
+   35 |                 [01;35m[Kexit[m[K(EXIT_FAILURE);
+      |                 [01;35m[K^~~~[m[K
+[01m[Kwave_test.c:35:17:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<stdlib.h>[m[K’ or provide a declaration of ‘[01m[Kexit[m[K’
+[01m[Kwave_test.c:35:22:[m[K [01;31m[Kerror: [m[K‘[01m[KEXIT_FAILURE[m[K’ undeclared (first use in this function)
+   35 |                 exit([01;31m[KEXIT_FAILURE[m[K);
+      |                      [01;31m[K^~~~~~~~~~~~[m[K
+[01m[Kwave_test.c:35:22:[m[K [01;36m[Knote: [m[K‘[01m[KEXIT_FAILURE[m[K’ is defined in header ‘[01m[K<stdlib.h>[m[K’; this is probably fixable by adding ‘[01m[K#include <stdlib.h>[m[K’
+[01m[Kwave_test.c:35:22:[m[K [01;36m[Knote: [m[Keach undeclared identifier is reported only once for each function it appears in
+[01m[Kwave_test.c:39:16:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Knbytes[m[K’
+   39 |         size_t [01;31m[Knbytes[m[K = fread(&subChunk1, 1, sizeof subChunk1, fd);
+      |                [01;31m[K^~~~~~[m[K
+[01m[Kwave_test.c:31:16:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Knbytes[m[K’ with type ‘[01m[Ksize_t[m[K’ {aka [m[K‘[01m[Klong unsigned int[m[K’}
+   31 |         size_t [01;36m[Knbytes[m[K = fread(&chunk, 1, sizeof chunk, fd);
+      |                [01;36m[K^~~~~~[m[K
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ gcc wave_test.c -o wave_test -g
+[?2004l]133;C\]666;vte.shell.preexec!\[01m[Kwave_test.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Kwave_test.c:35:17:[m[K [01;31m[Kerror: [m[Kimplicit declaration of function ‘[01m[Kexit[m[K’ [[01;31m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-15.2.0/gcc/Warning-Options.html#index-Wimplicit-function-declaration-Wimplicit-function-declaration]8;;[m[K]
+   35 |                 [01;31m[Kexit[m[K(EXIT_FAILURE);
+      |                 [01;31m[K^~~~[m[K
+[01m[Kwave_test.c:4:1:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<stdlib.h>[m[K’ or provide a declaration of ‘[01m[Kexit[m[K’
+    3 | #include <stdint.h>
+  +++ |+[32m[K#include <stdlib.h>[m[K
+    4 | 
+[01m[Kwave_test.c:35:17:[m[K [01;35m[Kwarning: [m[Kincompatible implicit declaration of built-in function ‘[01m[Kexit[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-15.2.0/gcc/Warning-Options.html#index-Wbuiltin-declaration-mismatch-Wbuiltin-declaration-mismatch]8;;[m[K]
+   35 |                 [01;35m[Kexit[m[K(EXIT_FAILURE);
+      |                 [01;35m[K^~~~[m[K
+[01m[Kwave_test.c:35:17:[m[K [01;36m[Knote: [m[Kinclude ‘[01m[K<stdlib.h>[m[K’ or provide a declaration of ‘[01m[Kexit[m[K’
+[01m[Kwave_test.c:35:22:[m[K [01;31m[Kerror: [m[K‘[01m[KEXIT_FAILURE[m[K’ undeclared (first use in this function)
+   35 |                 exit([01;31m[KEXIT_FAILURE[m[K);
+      |                      [01;31m[K^~~~~~~~~~~~[m[K
+[01m[Kwave_test.c:35:22:[m[K [01;36m[Knote: [m[K‘[01m[KEXIT_FAILURE[m[K’ is defined in header ‘[01m[K<stdlib.h>[m[K’; this is probably fixable by adding ‘[01m[K#include <stdlib.h>[m[K’
+[01m[Kwave_test.c:35:22:[m[K [01;36m[Knote: [m[Keach undeclared identifier is reported only once for each function it appears in
+[01m[Kwave_test.c:39:16:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Knbytes[m[K’
+   39 |         size_t [01;31m[Knbytes[m[K = fread(&subChunk1, 1, sizeof subChunk1, fd);
+      |                [01;31m[K^~~~~~[m[K
+[01m[Kwave_test.c:31:16:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Knbytes[m[K’ with type ‘[01m[Ksize_t[m[K’ {aka [m[K‘[01m[Klong unsigned int[m[K’}
+   31 |         size_t [01;36m[Knbytes[m[K = fread(&chunk, 1, sizeof chunk, fd);
+      |                [01;36m[K^~~~~~[m[K
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ gcc wave_test.c -o wave_test -g
+[?2004l]133;C\]666;vte.shell.preexec!\[01m[Kwave_test.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Kwave_test.c:40:16:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Knbytes[m[K’
+   40 |         size_t [01;31m[Knbytes[m[K = fread(&subChunk1, 1, sizeof subChunk1, fd);
+      |                [01;31m[K^~~~~~[m[K
+[01m[Kwave_test.c:32:16:[m[K [01;36m[Knote: [m[Kprevious definition of ‘[01m[Knbytes[m[K’ with type ‘[01m[Ksize_t[m[K’ {aka [m[K‘[01m[Klong unsigned int[m[K’}
+   32 |         size_t [01;36m[Knbytes[m[K = fread(&chunk, 1, sizeof chunk, fd);
+      |                [01;36m[K^~~~~~[m[K
+]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1\]7;file://ezequiel-NV41PZ/home/ezequiel/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]0;ezequiel@ezequiel-NV41PZ:~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave\]666;vte.shell.precmd!\[?2004h]0;ezequiel@ezequiel-NV41PZ: ~/Dropbox/disciplinas/psc/2627inv/psc-2627-1-leic33d/261124_wave[01;32mezequiel[00m$ 
+[?2004l]666;vte.shell.postexec=1
